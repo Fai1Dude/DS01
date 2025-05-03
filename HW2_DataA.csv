@@ -1,0 +1,1097 @@
+Order_Id,Type_of_Payment,Days_for_shipment,Sales_per_customer,Delivery_Status,Late_delivery,Category_Name,Customer_Id,Customer_Segment,Customer_Age,Order_Item_Discount,Order_Status,Product_Name,Product_Price,Shipping_Mode
+77202,DEBIT,4,314.6400146,Advance shipping,0,Sporting Goods,20755,Consumer,52,13.10999966,COMPLETE,Smart watch,327.75,Standard Class
+75939,TRANSFER,4,311.3599854,Late delivery,1,Sporting Goods,19492,Consumer,74,16.38999939,PENDING,Smart watch,327.75,Standard Class
+75938,CASH,4,309.7200012,Shipping on time,0,Sporting Goods,19491,Consumer,45,18.0700069,COMPLETE,Smart watch,327.75,Standard Class
+75937,DEBIT,4,304.8099976,Advance shipping,0,Sporting Goods,19490,Home Office,21,22.94000053,COMPLETE,Smart watch,327.75,Standard Class
+75936,PAYMENT,4,298.25,Advance shipping,0,Sporting Goods,19489,Corporate,27,29.5,PENDING,Smart watch,327.75,Standard Class
+75935,TRANSFER,4,294.980011,Shipping canceled,0,Sporting Goods,19488,Consumer,15,32.77999878,CANCELED,Smart watch,327.75,Standard Class
+75934,DEBIT,1,288.4200134,Late delivery,1,Sporting Goods,19487,Home Office,17,39.3700183,COMPLETE,Smart watch,327.75,First Class
+75933,TRANSFER,1,285.1400146,Late delivery,1,Sporting Goods,19486,Corporate,28,42.61000061,PENDING,Smart watch,327.75,First Class
+75932,CASH,2,278.5899963,Late delivery,1,Sporting Goods,19485,Corporate,40,49.15999985,COMPLETE,Smart watch,327.75,Second Class
+75931,CASH,1,275.3099976,Late delivery,1,Sporting Goods,19484,Corporate,46,52.43999863,COMPLETE,Smart watch,327.75,First Class
+75930,TRANSFER,2,272.0299988,Shipping canceled,0,Sporting Goods,19483,Corporate,60,55.72000122,CANCELED,Smart watch,327.75,Second Class
+75929,TRANSFER,2,268.7600098,Late delivery,1,Sporting Goods,19482,Consumer,67,59,PENDING,Smart watch,327.75,Second Class
+75928,TRANSFER,2,262.2000122,Late delivery,1,Sporting Goods,19481,Corporate,55,65.55000305,PENDING,Smart watch,327.75,Second Class
+75927,DEBIT,1,245.8099976,Late delivery,1,Sporting Goods,19480,Corporate,53,81.94000244,COMPLETE,Smart watch,327.75,First Class
+75926,TRANSFER,1,327.75,Late delivery,1,Sporting Goods,19479,Corporate,73,0,PENDING,Smart watch,327.75,First Class
+75925,DEBIT,1,324.4700012,Late delivery,1,Sporting Goods,19478,Corporate,41,3.279999971,COMPLETE,Smart watch,327.75,First Class
+75924,PAYMENT,2,321.2000122,Late delivery,1,Sporting Goods,19477,Corporate,71,6.559999943,PENDING,Smart watch,327.75,Second Class
+75923,CASH,1,317.9200134,Late delivery,1,Sporting Goods,19476,Corporate,34,9.829999924,COMPLETE,Smart watch,327.75,First Class
+75922,DEBIT,1,314.6400146,Late delivery,1,Sporting Goods,19475,Consumer,32,13.10999966,COMPLETE,Smart watch,327.75,First Class
+75921,PAYMENT,0,311.3599854,Shipping on time,0,Sporting Goods,19474,Consumer,33,16.38999939,PENDING,Smart watch,327.75,Same Day
+75920,TRANSFER,0,309.7200012,Shipping on time,0,Sporting Goods,19473,Corporate,40,18.0700069,PENDING,Smart watch,327.75,Same Day
+75919,TRANSFER,4,304.8099976,Late delivery,1,Sporting Goods,19472,Corporate,40,22.94000053,PENDING,Smart watch,327.75,Standard Class
+75918,TRANSFER,2,298.25,Late delivery,1,Sporting Goods,19471,Corporate,34,29.5,PENDING,Smart watch,327.75,Second Class
+75917,TRANSFER,2,294.980011,Shipping canceled,0,Sporting Goods,19470,Corporate,25,32.77999878,CANCELED,Smart watch,327.75,Second Class
+75916,TRANSFER,2,288.4200134,Shipping canceled,0,Sporting Goods,19469,Corporate,74,39.3700183,CANCELED,Smart watch,327.75,Second Class
+75915,DEBIT,2,285.1400146,Late delivery,1,Sporting Goods,19468,Corporate,34,42.61000061,COMPLETE,Smart watch,327.75,Second Class
+75914,TRANSFER,2,278.5899963,Late delivery,1,Sporting Goods,19467,Consumer,75,49.15999985,PENDING,Smart watch,327.75,Second Class
+75913,PAYMENT,4,275.3099976,Shipping on time,0,Sporting Goods,19466,Corporate,69,52.43999863,PENDING,Smart watch,327.75,Standard Class
+75912,DEBIT,4,272.0299988,Advance shipping,0,Sporting Goods,19465,Corporate,56,55.72000122,COMPLETE,Smart watch,327.75,Standard Class
+75911,TRANSFER,4,268.7600098,Advance shipping,0,Sporting Goods,19464,Consumer,48,59,PENDING,Smart watch,327.75,Standard Class
+75910,DEBIT,4,262.2000122,Late delivery,1,Sporting Goods,19463,Consumer,74,65.55000305,PENDING,Smart watch,327.75,Standard Class
+75909,DEBIT,4,245.8099976,Late delivery,1,Sporting Goods,19462,Consumer,53,81.94000244,COMPLETE,Smart watch,327.75,Standard Class
+75908,PAYMENT,4,327.75,Shipping on time,0,Sporting Goods,19461,Consumer,61,0,PENDING,Smart watch,327.75,Standard Class
+75907,DEBIT,1,324.4700012,Late delivery,1,Sporting Goods,19460,Consumer,29,3.279999971,COMPLETE,Smart watch,327.75,First Class
+75906,PAYMENT,1,321.2000122,Late delivery,1,Sporting Goods,19459,Consumer,69,6.559999943,PENDING,Smart watch,327.75,First Class
+75905,PAYMENT,1,317.9200134,Late delivery,1,Sporting Goods,19458,Corporate,53,9.829999924,PENDING,Smart watch,327.75,First Class
+75904,CASH,1,314.6400146,Late delivery,1,Sporting Goods,19457,Corporate,62,13.10999966,COMPLETE,Smart watch,327.75,First Class
+75903,DEBIT,1,311.3599854,Late delivery,1,Sporting Goods,19456,Corporate,71,16.38999939,COMPLETE,Smart watch,327.75,First Class
+75902,DEBIT,0,309.7200012,Late delivery,1,Sporting Goods,19455,Consumer,38,18.0700069,COMPLETE,Smart watch,327.75,Same Day
+75901,TRANSFER,0,304.8099976,Shipping canceled,0,Sporting Goods,19454,Consumer,35,22.94000053,CANCELED,Smart watch,327.75,Same Day
+75900,PAYMENT,0,298.25,Late delivery,1,Sporting Goods,19453,Consumer,26,29.5,PENDING,Smart watch,327.75,Same Day
+75899,DEBIT,0,294.980011,Late delivery,1,Sporting Goods,19452,Home Office,55,32.77999878,COMPLETE,Smart watch,327.75,Same Day
+75898,CASH,4,288.4200134,Shipping on time,0,Sporting Goods,19451,Home Office,68,39.3700183,COMPLETE,Smart watch,327.75,Standard Class
+75897,PAYMENT,4,285.1400146,Advance shipping,0,Sporting Goods,19450,Home Office,58,42.61000061,PENDING,Smart watch,327.75,Standard Class
+75896,DEBIT,4,278.5899963,Advance shipping,0,Sporting Goods,19449,Consumer,20,49.15999985,COMPLETE,Smart watch,327.75,Standard Class
+75895,TRANSFER,4,275.3099976,Late delivery,1,Sporting Goods,19448,Corporate,56,52.43999863,PENDING,Smart watch,327.75,Standard Class
+75894,TRANSFER,2,272.0299988,Late delivery,1,Sporting Goods,19447,Corporate,31,55.72000122,PENDING,Smart watch,327.75,Second Class
+75893,TRANSFER,4,268.7600098,Shipping on time,0,Sporting Goods,19446,Corporate,53,59,PENDING,Smart watch,327.75,Standard Class
+28744,PAYMENT,2,115.1800003,Late delivery,1,Cleats,9083,Home Office,19,4.800000191,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+45461,PAYMENT,2,79.18000031,Shipping on time,0,Shop By Sport,4741,Home Office,48,0.800000012,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+31115,PAYMENT,2,96,Late delivery,1,Women's Apparel,639,Home Office,20,4,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+45766,PAYMENT,2,75.98000336,Shipping on time,0,Shop By Sport,9702,Home Office,74,4,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+47752,PAYMENT,2,91,Late delivery,1,Women's Apparel,9114,Home Office,21,9,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+50054,PAYMENT,2,87,Late delivery,1,Women's Apparel,1362,Home Office,74,13,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+20365,PAYMENT,2,82,Late delivery,1,Women's Apparel,8011,Home Office,43,18,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+36146,PAYMENT,2,74.68000031,Shipping on time,0,Electronics,3296,Home Office,22,15.7000019,PENDING,Under Armour Men's Compression EV SL Slide,44.99000168,Second Class
+41234,PAYMENT,2,90.15000153,Late delivery,1,Boxing & MMA,3182,Home Office,41,19.79000092,PENDING,Under Armour Women's Micro G Skulpt Running S,54.97000122,Second Class
+32090,PAYMENT,2,117.5800018,Late delivery,1,Cleats,7864,Home Office,23,2.400000095,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+34773,PAYMENT,2,95.98000336,Late delivery,1,Cleats,11169,Home Office,68,24,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+44046,PAYMENT,2,263.9700012,Shipping on time,0,Cardio Equipment,5197,Home Office,16,36,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+46414,PAYMENT,2,113.9700012,Late delivery,1,Shop By Sport,1535,Home Office,62,6,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+46599,PAYMENT,2,63.99000168,Late delivery,1,Trade-In,6122,Home Office,23,1.980000019,PENDING,Glove It Women's Mod Oval 3-Zip Carry All Gol,21.98999977,Second Class
+48434,PAYMENT,2,79.66000366,Late delivery,1,Electronics,9451,Home Office,63,16.30999947,PENDING,Bridgestone e6 Straight Distance NFL San Dieg,31.98999977,Second Class
+12827,PAYMENT,2,293.9700012,Late delivery,1,Cardio Equipment,542,Home Office,56,6,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+63936,PAYMENT,2,269.9700012,Shipping on time,0,Cardio Equipment,11329,Home Office,70,30,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+65030,PAYMENT,2,224.9799957,Late delivery,1,Cardio Equipment,3570,Home Office,18,74.98999786,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+18108,PAYMENT,2,176.3699951,Late delivery,1,Cleats,650,Home Office,47,3.599999905,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+62571,PAYMENT,2,167.3699951,Shipping on time,0,Cleats,9353,Home Office,74,12.60000038,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+17162,PAYMENT,2,163.7700043,Late delivery,1,Cleats,54,Home Office,53,16.20000076,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+65922,PAYMENT,2,161.9700012,Late delivery,1,Cleats,12151,Home Office,22,18,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+63936,PAYMENT,2,139.5,Shipping on time,0,Women's Apparel,11329,Home Office,15,10.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+64813,PAYMENT,2,107.9700012,Late delivery,1,Shop By Sport,10018,Home Office,74,12,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+67892,PAYMENT,2,112.5,Late delivery,1,Women's Apparel,3182,Home Office,52,37.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+12525,PAYMENT,2,55.40999985,Late delivery,1,Trade-In,4936,Home Office,14,10.56000042,PENDING,Glove It Women's Mod Oval 3-Zip Carry All Gol,21.98999977,Second Class
+5895,PAYMENT,2,299.9700012,Late delivery,1,Cardio Equipment,8707,Home Office,58,0,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+56359,PAYMENT,2,178.1699982,Late delivery,1,Cleats,1025,Home Office,36,1.799999952,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+58613,PAYMENT,2,170.9700012,Late delivery,1,Cleats,8831,Home Office,60,9,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+7824,PAYMENT,2,170.0700073,Late delivery,1,Cleats,10679,Home Office,59,9.899999619,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+7814,PAYMENT,2,167.3699951,Late delivery,1,Cleats,5007,Home Office,19,12.60000038,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+7814,PAYMENT,2,163.7700043,Late delivery,1,Cleats,5007,Home Office,29,16.20000076,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+60807,PAYMENT,2,152.9700012,Late delivery,1,Cleats,9854,Home Office,66,27,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+53413,PAYMENT,2,152.9700012,Late delivery,1,Cleats,376,Home Office,71,27,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+7888,PAYMENT,2,150,Late delivery,1,Women's Apparel,5417,Home Office,67,0,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+6783,PAYMENT,2,115.1699982,Late delivery,1,Shop By Sport,10759,Home Office,67,4.800000191,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+56973,PAYMENT,2,144,Late delivery,1,Women's Apparel,8541,Home Office,51,6,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+7824,PAYMENT,2,142.5,Late delivery,1,Women's Apparel,10679,Home Office,73,7.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+55155,PAYMENT,2,139.5,Late delivery,1,Women's Apparel,3752,Home Office,28,10.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+5991,PAYMENT,2,132,Shipping on time,0,Women's Apparel,4673,Home Office,27,18,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+2263,PAYMENT,2,132,Late delivery,1,Women's Apparel,5367,Home Office,35,18,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+2263,PAYMENT,2,130.5,Late delivery,1,Women's Apparel,5367,Home Office,57,19.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+53403,PAYMENT,2,124.5,Late delivery,1,Women's Apparel,10485,Home Office,22,25.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+51298,PAYMENT,2,99.58000183,Late delivery,1,Shop By Sport,9272,Home Office,73,20.38999939,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+4919,TRANSFER,4,240,Late delivery,1,Women's Apparel,647,Consumer,49,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+52640,TRANSFER,4,189.9499969,Late delivery,1,Shop By Sport,6398,Consumer,33,10,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+6358,TRANSFER,4,188.9499969,Shipping on time,0,Shop By Sport,4209,Consumer,17,11,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+57106,TRANSFER,4,236.25,Advance shipping,0,Women's Apparel,8917,Consumer,50,13.75,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+6245,TRANSFER,4,236.25,Late delivery,1,Women's Apparel,7784,Consumer,72,13.75,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+52166,TRANSFER,4,136.5,Advance shipping,0,Shop By Sport,1425,Consumer,39,13.5,PENDING,Columbia Men's PFG Anchor Tough T-Shirt,30,Standard Class
+56172,TRANSFER,4,181.9499969,Advance shipping,0,Shop By Sport,2737,Consumer,33,18,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+55829,TRANSFER,4,225,Late delivery,1,Women's Apparel,6428,Consumer,73,25,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+52478,TRANSFER,4,225,Shipping on time,0,Women's Apparel,6543,Consumer,49,25,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+57242,TRANSFER,4,173.9600067,Advance shipping,0,Shop By Sport,3990,Consumer,49,25.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+3137,TRANSFER,4,217.5,Advance shipping,0,Women's Apparel,8524,Consumer,44,32.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+60127,TRANSFER,4,217.5,Advance shipping,0,Women's Apparel,9204,Consumer,71,32.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+3828,TRANSFER,4,169.9600067,Shipping on time,0,Shop By Sport,11761,Consumer,63,29.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+60386,TRANSFER,4,212.5,Advance shipping,0,Women's Apparel,9554,Consumer,38,37.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+973,TRANSFER,4,167.9600067,Shipping on time,0,Shop By Sport,5118,Consumer,22,31.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+57999,TRANSFER,4,207.5,Late delivery,1,Women's Apparel,5506,Consumer,74,42.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+54585,TRANSFER,4,207.5,Late delivery,1,Women's Apparel,1423,Consumer,63,42.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+57598,TRANSFER,4,200,Shipping on time,0,Women's Apparel,138,Consumer,28,50,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+54274,TRANSFER,4,200,Late delivery,1,Women's Apparel,6360,Consumer,34,50,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+60673,TRANSFER,4,149.9600067,Shipping on time,0,Shop By Sport,2053,Consumer,71,49.99000168,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+59387,TRANSFER,4,187.5,Advance shipping,0,Women's Apparel,10344,Consumer,63,62.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+52640,TRANSFER,4,187.5,Late delivery,1,Women's Apparel,6398,Consumer,61,62.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+10007,TRANSFER,4,187.5,Advance shipping,0,Women's Apparel,3375,Consumer,71,62.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+55984,TRANSFER,4,237.5500031,Late delivery,1,Electronics,1339,Consumer,45,2.400000095,PENDING,Titleist Pro V1x Golf Balls,47.99000168,Standard Class
+52478,TRANSFER,4,153.5500031,Shipping on time,0,Electronics,6543,Consumer,26,6.400000095,PENDING,Bridgestone e6 Straight Distance NFL Tennesse,31.98999977,Standard Class
+58375,TRANSFER,4,395.9599915,Late delivery,1,Kids' Golf Clubs,3990,Consumer,26,53.99000168,PENDING,Polar FT4 Heart Rate Monitor,89.98999786,Standard Class
+56448,TRANSFER,4,124.4599991,Shipping on time,0,Hunting & Shooting,7247,Consumer,47,25.48999977,PENDING,ENO Atlas Hammock Straps,29.98999977,Standard Class
+8221,TRANSFER,4,284.9500122,Advance shipping,0,Baseball & Softball,1273,Consumer,62,15,PENDING,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99000168,Standard Class
+58034,TRANSFER,4,499.9500122,Late delivery,1,Cardio Equipment,6277,Consumer,30,0,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+2203,TRANSFER,4,494.9500122,Shipping on time,0,Cardio Equipment,7701,Consumer,57,5,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+53069,TRANSFER,4,484.9500122,Late delivery,1,Cardio Equipment,4126,Consumer,55,15,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+60146,TRANSFER,4,479.9500122,Advance shipping,0,Cardio Equipment,9528,Consumer,28,20,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+55409,TRANSFER,4,479.9500122,Late delivery,1,Cardio Equipment,1853,Consumer,28,20,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+8678,TRANSFER,4,474.9500122,Shipping on time,0,Cardio Equipment,11149,Consumer,25,25,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+7980,TRANSFER,4,474.9500122,Late delivery,1,Cardio Equipment,5828,Consumer,69,25,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+57185,TRANSFER,4,449.9599915,Late delivery,1,Cardio Equipment,6887,Consumer,41,50,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+8636,TRANSFER,4,449.9599915,Advance shipping,0,Cardio Equipment,4781,Consumer,16,50,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+61192,TRANSFER,4,337.4599915,Advance shipping,0,Boxing & MMA,10668,Consumer,42,50,PENDING,Brooks Women's Ghost 6 Running Shoe,89.98999786,Standard Class
+55876,TRANSFER,4,299.9500122,Advance shipping,0,Cleats,5421,Consumer,26,0,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+53331,TRANSFER,4,296.9500122,Advance shipping,0,Cleats,10200,Consumer,29,3,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+51725,TRANSFER,4,296.9500122,Late delivery,1,Cleats,11254,Consumer,70,3,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+52562,TRANSFER,4,293.9500122,Advance shipping,0,Cleats,11106,Consumer,46,6,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+59754,TRANSFER,4,290.9500122,Late delivery,1,Cleats,8456,Consumer,51,9,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+53574,TRANSFER,4,287.9500122,Late delivery,1,Cleats,6149,Consumer,15,12,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+399,TRANSFER,4,283.4500122,Late delivery,1,Cleats,1473,Consumer,59,16.5,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+51050,DEBIT,2,86.98999786,Late delivery,1,Cardio Equipment,1840,Consumer,19,13,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+45680,DEBIT,2,127.3899994,Late delivery,1,Men's Footwear,6757,Consumer,71,2.599999905,PENDING,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+42992,DEBIT,2,118.2900009,Late delivery,1,Men's Footwear,3972,Consumer,56,11.69999981,PENDING,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+41304,DEBIT,2,116.9899979,Late delivery,1,Men's Footwear,9316,Consumer,69,13,PENDING,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+45680,DEBIT,2,49.18999863,Late delivery,1,Cleats,6757,Consumer,45,10.80000019,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+44253,DEBIT,2,103.9899979,Late delivery,1,Men's Footwear,11213,Consumer,44,26,PENDING,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+46098,DEBIT,2,296.980011,Late delivery,1,Camping & Hiking,3474,Consumer,17,3,PENDING,Diamondback Women's Serene Classic Comfort Bi,299.980011,Second Class
+41304,DEBIT,2,293.980011,Late delivery,1,Camping & Hiking,9316,Consumer,54,6,PENDING,Diamondback Women's Serene Classic Comfort Bi,299.980011,Second Class
+71077,DEBIT,2,252.8800049,Late delivery,1,Consumer Electronics,14630,Consumer,16,0,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+69703,DEBIT,2,447.519989,Late delivery,1,Cameras ,13256,Consumer,73,4.519999981,COMPLETE,Web Camera,452.0400085,Second Class
+71112,DEBIT,2,250.3500061,Late delivery,1,Consumer Electronics,14665,Consumer,67,2.529999971,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+69810,DEBIT,2,443,Late delivery,1,Cameras ,13363,Consumer,45,9.039999962,COMPLETE,Web Camera,452.0400085,Second Class
+71092,DEBIT,2,245.2899933,Late delivery,1,Consumer Electronics,14645,Consumer,25,7.590000153,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+69610,DEBIT,2,433.9599915,Late delivery,1,Cameras ,13163,Consumer,60,18.07999992,COMPLETE,Web Camera,452.0400085,Second Class
+71000,DEBIT,2,240.2400055,Late delivery,1,Consumer Electronics,14553,Consumer,21,12.64000034,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+70734,DEBIT,2,1417.5,Late delivery,1,Computers,14287,Consumer,16,82.5,COMPLETE,Dell Laptop,1500,Second Class
+69626,DEBIT,2,427.1799927,Shipping on time,0,Cameras ,13179,Consumer,28,24.86000061,COMPLETE,Web Camera,452.0400085,Second Class
+69482,DEBIT,2,427.1799927,Late delivery,1,Cameras ,13035,Consumer,54,24.86000061,COMPLETE,Web Camera,452.0400085,Second Class
+70769,DEBIT,2,1395,Late delivery,1,Computers,14322,Consumer,28,45,COMPLETE,Dell Laptop,1500,Second Class
+69643,DEBIT,2,420.3999939,Late delivery,1,Cameras ,13196,Consumer,18,31.63999939,COMPLETE,Web Camera,452.0400085,Second Class
+71051,DEBIT,2,230.1199951,Shipping on time,0,Consumer Electronics,14604,Consumer,31,22.76000023,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+69408,DEBIT,2,411.3599854,Late delivery,1,Cameras ,12961,Consumer,59,40.68000031,COMPLETE,Web Camera,452.0400085,Second Class
+71123,DEBIT,2,230.1199951,Late delivery,1,Consumer Electronics,14676,Consumer,39,22.76000023,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+70534,DEBIT,2,1365,Late delivery,1,Computers,14087,Consumer,47,65,COMPLETE,Dell Laptop,1500,Second Class
+69641,DEBIT,2,406.8399963,Shipping on time,0,Cameras ,13194,Consumer,57,45.20000076,COMPLETE,Web Camera,452.0400085,Second Class
+70960,DEBIT,2,227.5899963,Late delivery,1,Consumer Electronics,14513,Consumer,28,25.29000092,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+69908,DEBIT,2,384.230011,Late delivery,1,Cameras ,13461,Consumer,37,67.80999756,COMPLETE,Web Camera,452.0400085,Second Class
+70957,DEBIT,2,214.9499969,Late delivery,1,Consumer Electronics,14510,Consumer,69,37.9700031,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+69637,DEBIT,2,379.7099915,Late delivery,1,Cameras ,13190,Consumer,68,72.3700183,COMPLETE,Web Camera,452.0400085,Second Class
+70955,DEBIT,2,209.8899994,Late delivery,1,Consumer Electronics,14508,Consumer,54,42.99000168,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+70919,DEBIT,2,209.8899994,Late delivery,1,Consumer Electronics,14472,Consumer,50,42.99000168,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+71009,DEBIT,2,209.8899994,Late delivery,1,Consumer Electronics,14562,Consumer,53,42.99000168,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+69653,DEBIT,2,370.6700134,Late delivery,1,Cameras ,13206,Consumer,40,81.37000275,COMPLETE,Web Camera,452.0400085,Second Class
+69527,DEBIT,2,370.6700134,Late delivery,1,Cameras ,13080,Consumer,68,81.37000275,COMPLETE,Web Camera,452.0400085,Second Class
+71080,DEBIT,2,207.3600006,Late delivery,1,Consumer Electronics,14633,Consumer,18,45.52000046,COMPLETE,Industrial consumer electronics,252.8800049,Second Class
+70544,DEBIT,2,1200,Late delivery,1,Computers,14097,Consumer,22,70,COMPLETE,Dell Laptop,1500,Second Class
+69471,DEBIT,2,339.0299988,Shipping on time,0,Cameras ,13024,Consumer,38,55,COMPLETE,Web Camera,452.0400085,Second Class
+68879,DEBIT,2,989.9899902,Late delivery,1,Basketball,778,Consumer,47,10,COMPLETE,SOLE E25 Elliptical,999.9899902,Second Class
+67214,DEBIT,2,78.38999939,Late delivery,1,Soccer,7146,Consumer,46,1.600000024,COMPLETE,Elevation Training Mask 2.0,79.98999786,Second Class
+17810,DEBIT,2,52.18999863,Late delivery,1,Baseball & Softball,6365,Consumer,18,7.800000191,COMPLETE,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99000168,Second Class
+18793,DEBIT,2,43.18999863,Late delivery,1,Electronics,8422,Consumer,45,1.799999952,COMPLETE,Under Armour Men's Compression EV SL Slide,44.99000168,Second Class
+65109,DEBIT,2,95.98999786,Late delivery,1,Cardio Equipment,8524,Consumer,14,4,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+15673,DEBIT,2,94.98999786,Late delivery,1,Cardio Equipment,3784,Consumer,72,5,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+18183,DEBIT,2,41.84000015,Late delivery,1,Electronics,10519,Consumer,66,3.150000095,COMPLETE,Under Armour Men's Compression EV SL Slide,44.99000168,Second Class
+20234,DEBIT,2,89.98999786,Late delivery,1,Cardio Equipment,7132,Consumer,20,10,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+13139,DEBIT,2,87.98999786,Late delivery,1,Cardio Equipment,3709,Consumer,39,12,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+33824,TRANSFER,4,128.2200012,Shipping canceled,0,Electronics,1509,Consumer,58,6.75,CANCELED,Under Armour Men's Compression EV SL Slide,44.99000168,Standard Class
+31364,TRANSFER,4,278.9700012,Shipping canceled,0,Cardio Equipment,1636,Consumer,67,21,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+40495,TRANSFER,4,272.9700012,Shipping canceled,0,Cardio Equipment,2784,Consumer,34,27,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+31364,TRANSFER,4,272.9700012,Shipping canceled,0,Cardio Equipment,1636,Consumer,17,27,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+34506,TRANSFER,4,170.9700012,Shipping canceled,0,Cleats,9174,Consumer,23,9,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+33607,TRANSFER,4,167.3699951,Shipping canceled,0,Cleats,122,Consumer,49,12.60000038,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+32617,TRANSFER,4,158.3699951,Shipping canceled,0,Cleats,3800,Consumer,42,21.60000038,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+37496,TRANSFER,4,118.7699966,Shipping canceled,0,Shop By Sport,10029,Consumer,37,1.200000048,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+32617,TRANSFER,4,73.5,Shipping canceled,0,Girls' Apparel,3800,Consumer,61,1.5,CANCELED,adidas Men's Germany Black Crest Away Tee,25,Standard Class
+49075,TRANSFER,4,132,Shipping canceled,0,Women's Apparel,2805,Consumer,61,18,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+33824,TRANSFER,4,132,Shipping canceled,0,Women's Apparel,1509,Consumer,55,18,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+49075,TRANSFER,4,130.5,Shipping canceled,0,Women's Apparel,2805,Consumer,14,19.5,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+41623,TRANSFER,4,99.58000183,Shipping canceled,0,Shop By Sport,12253,Consumer,64,20.38999939,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+39271,TRANSFER,4,99.58000183,Shipping canceled,0,Shop By Sport,3528,Consumer,51,20.38999939,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+38598,TRANSFER,4,74.22000122,Shipping canceled,0,Accessories,11018,Consumer,31,0.75,CANCELED,Team Golf Pittsburgh Steelers Putter Grip,24.98999977,Standard Class
+37845,TRANSFER,4,40.29000092,Shipping canceled,0,Trade-In,3222,Consumer,66,7.679999828,CANCELED,Glove It Urban Brick Golf Towel,15.98999977,Standard Class
+42331,TRANSFER,4,227.9600067,Shipping canceled,0,Cleats,6246,Consumer,30,12,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+41345,TRANSFER,4,203.9700012,Shipping canceled,0,Cleats,8741,Consumer,51,35.99000168,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+51168,TRANSFER,4,200,Shipping canceled,0,Women's Apparel,8050,Consumer,45,0,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+51168,TRANSFER,4,156.7599945,Shipping canceled,0,Shop By Sport,8050,Consumer,19,3.200000048,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+43599,TRANSFER,4,189,Shipping canceled,0,Women's Apparel,5474,Consumer,61,11,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+41901,TRANSFER,4,79.97000122,Shipping canceled,0,Accessories,474,Consumer,60,19.98999977,CANCELED,Team Golf Texas Longhorns Putter Grip,24.98999977,Standard Class
+42751,TRANSFER,4,363.9599915,Advance shipping,0,Cardio Equipment,12255,Consumer,74,36,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+45088,TRANSFER,4,239.9600067,Shipping on time,0,Cleats,10288,Consumer,20,0,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+50489,TRANSFER,4,230.3600006,Late delivery,1,Cleats,4717,Consumer,38,9.600000381,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+44409,TRANSFER,4,227.9600067,Late delivery,1,Cleats,4799,Consumer,57,12,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+42101,TRANSFER,4,226.7599945,Advance shipping,0,Cleats,4533,Consumer,23,13.19999981,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+50424,TRANSFER,4,208.7700043,Late delivery,1,Cleats,12383,Consumer,33,31.19000053,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+49825,TRANSFER,4,200,Late delivery,1,Women's Apparel,3518,Consumer,34,0,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+41294,TRANSFER,4,198,Late delivery,1,Women's Apparel,4674,Consumer,27,2,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+42023,TRANSFER,4,155.1600037,Shipping on time,0,Shop By Sport,8519,Consumer,62,4.800000191,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+47774,TRANSFER,4,151.1600037,Late delivery,1,Shop By Sport,5302,Consumer,26,8.800000191,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+41827,TRANSFER,4,111.5999985,Advance shipping,0,Girls' Apparel,3594,Consumer,34,8.399999619,PENDING,Nike Men's Deutschland Weltmeister Winners Bl,30,Standard Class
+47193,TRANSFER,4,170,Shipping on time,0,Women's Apparel,9890,Consumer,22,30,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+42626,TRANSFER,4,160,Advance shipping,0,Women's Apparel,1410,Consumer,74,40,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+46199,TRANSFER,4,150,Late delivery,1,Women's Apparel,7521,Consumer,41,50,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+48468,TRANSFER,4,94.45999908,Shipping on time,0,Accessories,2106,Consumer,36,5.5,PENDING,Team Golf St. Louis Cardinals Putter Grip,24.98999977,Standard Class
+51009,TRANSFER,4,395.9599915,Late delivery,1,Cardio Equipment,8144,Consumer,37,4,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+46229,TRANSFER,4,391.9599915,Late delivery,1,Cardio Equipment,5643,Consumer,26,8,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+42882,TRANSFER,4,379.9599915,Advance shipping,0,Cardio Equipment,2041,Consumer,65,20,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+46827,TRANSFER,4,363.9599915,Advance shipping,0,Cardio Equipment,7537,Consumer,47,36,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+48684,TRANSFER,4,359.9599915,Late delivery,1,Cardio Equipment,3056,Consumer,74,40,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+48684,TRANSFER,4,351.9599915,Late delivery,1,Cardio Equipment,3056,Consumer,75,48,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+46416,TRANSFER,4,351.9599915,Advance shipping,0,Cardio Equipment,7967,Consumer,14,48,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+47343,TRANSFER,4,339.9700012,Shipping on time,0,Cardio Equipment,1758,Consumer,40,59.99000168,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+41686,DEBIT,4,124.7900009,Advance shipping,0,Men's Footwear,7884,Corporate,55,5.199999809,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+41896,DEBIT,4,124.7900009,Advance shipping,0,Men's Footwear,289,Corporate,56,5.199999809,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+28168,DEBIT,4,56.99000168,Shipping on time,0,Cleats,10081,Corporate,47,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+24992,DEBIT,4,123.4899979,Advance shipping,0,Men's Footwear,1169,Corporate,39,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30851,DEBIT,4,123.4899979,Advance shipping,0,Men's Footwear,1182,Corporate,35,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+25074,DEBIT,4,123.4899979,Late delivery,1,Men's Footwear,717,Corporate,74,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+76870,DEBIT,4,205.0299988,Late delivery,1,Women's Clothing,20423,Corporate,58,10.78999996,COMPLETE,Summer dresses,215.8200073,Standard Class
+25163,DEBIT,4,123.4899979,Shipping on time,0,Men's Footwear,5801,Corporate,56,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+28036,DEBIT,4,123.4899979,Advance shipping,0,Men's Footwear,702,Corporate,34,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+22679,DEBIT,4,123.4899979,Late delivery,1,Men's Footwear,6951,Corporate,26,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+23610,DEBIT,4,123.4899979,Late delivery,1,Men's Footwear,6780,Corporate,71,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+42828,DEBIT,4,56.99000168,Shipping on time,0,Cleats,6422,Corporate,69,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+41896,DEBIT,4,123.4899979,Advance shipping,0,Men's Footwear,289,Corporate,54,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+48713,DEBIT,4,123.4899979,Shipping on time,0,Men's Footwear,5384,Corporate,66,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+45668,DEBIT,4,123.4899979,Shipping on time,0,Men's Footwear,2985,Corporate,27,6.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+74796,DEBIT,4,436.1000061,Advance shipping,0,Crafts,18349,Corporate,49,25.37999916,COMPLETE,Porcelain crafts,461.480011,Standard Class
+27918,DEBIT,4,122.8399963,Shipping on time,0,Men's Footwear,11286,Corporate,73,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30097,DEBIT,4,56.68999863,Advance shipping,0,Cleats,489,Corporate,34,3.299999952,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+30966,DEBIT,4,122.8399963,Advance shipping,0,Men's Footwear,4510,Corporate,34,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30063,DEBIT,4,122.8399963,Shipping on time,0,Men's Footwear,9626,Corporate,38,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+22019,DEBIT,4,122.8399963,Late delivery,1,Men's Footwear,9494,Corporate,48,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+24230,DEBIT,4,122.8399963,Late delivery,1,Men's Footwear,1718,Corporate,66,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+48713,DEBIT,4,122.8399963,Shipping on time,0,Men's Footwear,5384,Corporate,56,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+42353,DEBIT,4,122.8399963,Shipping on time,0,Men's Footwear,5295,Corporate,74,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+45668,DEBIT,4,122.8399963,Shipping on time,0,Men's Footwear,2985,Corporate,59,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+42134,DEBIT,4,120.8899994,Late delivery,1,Men's Footwear,3984,Corporate,69,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21522,DEBIT,4,120.8899994,Advance shipping,0,Men's Footwear,5270,Corporate,48,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+23767,DEBIT,4,120.8899994,Advance shipping,0,Men's Footwear,10966,Corporate,51,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+25433,DEBIT,4,120.8899994,Shipping on time,0,Men's Footwear,1868,Corporate,60,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+73893,DEBIT,4,200.7100067,Shipping on time,0,Women's Clothing,17446,Corporate,30,15.10999966,COMPLETE,Summer dresses,215.8200073,Standard Class
+30085,DEBIT,4,55.79000092,Late delivery,1,Cleats,10071,Corporate,68,4.199999809,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+30172,DEBIT,4,120.8899994,Advance shipping,0,Men's Footwear,1271,Corporate,62,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+27478,DEBIT,4,120.8899994,Shipping on time,0,Men's Footwear,11930,Corporate,64,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+76976,DEBIT,4,200.7100067,Advance shipping,0,Women's Clothing,20529,Corporate,68,15.10999966,COMPLETE,Summer dresses,215.8200073,Standard Class
+24063,DEBIT,4,120.8899994,Shipping on time,0,Men's Footwear,8358,Corporate,73,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+51209,DEBIT,4,120.8899994,Late delivery,1,Men's Footwear,7705,Corporate,69,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+73839,DEBIT,4,200.7100067,Late delivery,1,Women's Clothing,17392,Corporate,50,15.10999966,COMPLETE,Summer dresses,215.8200073,Standard Class
+74723,DEBIT,4,429.1799927,Shipping on time,0,Crafts,18276,Corporate,38,32.29999924,COMPLETE,Porcelain crafts,461.480011,Standard Class
+26821,DEBIT,4,120.8899994,Advance shipping,0,Men's Footwear,7795,Corporate,41,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+77102,DEBIT,4,200.7100067,Advance shipping,0,Women's Clothing,20655,Corporate,50,15.10999966,COMPLETE,Summer dresses,215.8200073,Standard Class
+41608,DEBIT,4,120.8899994,Shipping on time,0,Men's Footwear,2454,Corporate,46,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+47009,DEBIT,4,120.8899994,Late delivery,1,Men's Footwear,150,Corporate,72,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+49916,DEBIT,4,118.2900009,Advance shipping,0,Men's Footwear,10671,Corporate,27,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+29746,DEBIT,4,54.59000015,Advance shipping,0,Cleats,11924,Corporate,45,5.400000095,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+72533,DEBIT,4,191.8699951,Shipping on time,0,Men's Clothing,16086,Corporate,53,18.97999954,COMPLETE,Men's gala suit,210.8500061,Standard Class
+48608,DEBIT,4,225,Shipping on time,0,Women's Apparel,4398,Consumer,58,25,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+45506,DEBIT,4,220,Advance shipping,0,Women's Apparel,5687,Consumer,53,30,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+45027,DEBIT,4,173.9600067,Advance shipping,0,Shop By Sport,8534,Consumer,60,25.98999977,COMPLETE,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+46308,DEBIT,4,169.9600067,Shipping on time,0,Shop By Sport,3372,Consumer,46,29.98999977,COMPLETE,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+43685,DEBIT,4,210,Late delivery,1,Women's Apparel,10927,Consumer,41,40,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+41893,DEBIT,4,207.5,Shipping on time,0,Women's Apparel,3597,Consumer,34,42.5,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+46339,DEBIT,4,207.5,Late delivery,1,Women's Apparel,2052,Consumer,37,42.5,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+46667,DEBIT,4,207.5,Advance shipping,0,Women's Apparel,4399,Consumer,66,42.5,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+47647,DEBIT,4,205,Advance shipping,0,Women's Apparel,185,Consumer,20,45,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+48565,DEBIT,4,205,Late delivery,1,Women's Apparel,3441,Consumer,63,45,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+43889,DEBIT,4,205,Late delivery,1,Women's Apparel,11947,Consumer,38,45,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+45138,DEBIT,4,200,Shipping on time,0,Women's Apparel,1555,Consumer,54,50,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+44160,DEBIT,4,149.9600067,Late delivery,1,Shop By Sport,9399,Consumer,20,49.99000168,COMPLETE,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+49214,DEBIT,4,187.5,Late delivery,1,Women's Apparel,2792,Consumer,23,62.5,COMPLETE,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+41825,DEBIT,4,124.9499969,Late delivery,1,Accessories,10118,Consumer,68,0,COMPLETE,Team Golf Tennessee Volunteers Putter Grip,24.98999977,Standard Class
+44504,DEBIT,4,118.6999969,Late delivery,1,Accessories,8544,Consumer,38,6.25,COMPLETE,Team Golf St. Louis Cardinals Putter Grip,24.98999977,Standard Class
+44496,DEBIT,4,118.0800018,Advance shipping,0,Accessories,4296,Consumer,16,6.869999886,COMPLETE,Team Golf San Francisco Giants Putter Grip,24.98999977,Standard Class
+45559,DEBIT,4,74.34999847,Late delivery,1,Trade-In,4391,Consumer,33,5.599999905,COMPLETE,Glove It Imperial Golf Towel,15.98999977,Standard Class
+44074,DEBIT,4,67.16000366,Late delivery,1,Trade-In,2882,Consumer,37,12.78999996,COMPLETE,Glove It Urban Brick Golf Towel,15.98999977,Standard Class
+49857,DEBIT,4,131.1600037,Advance shipping,0,Electronics,3283,Consumer,44,28.79000092,COMPLETE,Bridgestone e6 Straight Distance NFL Tennesse,31.98999977,Standard Class
+41786,DEBIT,4,119.9599991,Advance shipping,0,Hunting & Shooting,397,Consumer,26,29.98999977,COMPLETE,ENO Atlas Hammock Straps,29.98999977,Standard Class
+48042,DEBIT,4,186.7100067,Advance shipping,0,Tennis & Racquet,4104,Consumer,68,38.24000168,PENDING,Nike Men's Comfort 2 Slide,44.99000168,Standard Class
+44301,DEBIT,4,474.9500122,Advance shipping,0,Cardio Equipment,12214,Consumer,68,25,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+41591,DEBIT,4,299.9500122,Advance shipping,0,Cleats,10699,Consumer,68,0,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+44981,DEBIT,4,165.9600067,Advance shipping,0,Shop By Sport,2091,Consumer,32,33.99000168,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+41545,DEBIT,4,200,Late delivery,1,Women's Apparel,10474,Consumer,55,50,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+49910,DEBIT,4,196.7599945,Late delivery,1,Electronics,7504,Consumer,39,43.18999863,PENDING,Titleist Pro V1x Golf Balls,47.99000168,Standard Class
+19590,DEBIT,4,284.9500122,Late delivery,1,Baseball & Softball,7518,Consumer,49,15,COMPLETE,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99000168,Standard Class
+43650,DEBIT,4,174.9499969,Late delivery,1,Fitness Accessories,1738,Consumer,59,0,COMPLETE,Under Armour Hustle Storm Medium Duffle Bag,34.99000168,Standard Class
+15202,DEBIT,4,494.9500122,Advance shipping,0,Cardio Equipment,1622,Consumer,48,5,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+15462,DEBIT,4,137.1499939,Advance shipping,0,Electronics,1325,Consumer,71,2.799999952,COMPLETE,Under Armour Kids' Mercenary Slide,27.98999977,Standard Class
+15155,DEBIT,4,489.9500122,Late delivery,1,Cardio Equipment,5505,Consumer,62,10,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+64451,DEBIT,4,484.9500122,Advance shipping,0,Cardio Equipment,4210,Consumer,68,15,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+67028,DEBIT,4,484.9500122,Shipping on time,0,Cardio Equipment,11229,Consumer,22,15,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+62336,DEBIT,4,484.9500122,Advance shipping,0,Cardio Equipment,9385,Consumer,28,15,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+11334,DEBIT,4,155.1499939,Late delivery,1,Electronics,900,Consumer,56,4.800000191,COMPLETE,Under Armour Women's Ignite PIP VI Slide,31.98999977,Standard Class
+62885,DEBIT,4,479.9500122,Late delivery,1,Cardio Equipment,6217,Consumer,47,20,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+66998,DEBIT,4,479.9500122,Shipping on time,0,Cardio Equipment,9466,Consumer,57,20,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+47002,DEBIT,4,474.9500122,Advance shipping,0,Cardio Equipment,4596,Consumer,17,25,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+63445,DEBIT,4,474.9500122,Late delivery,1,Cardio Equipment,5206,Consumer,21,25,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+67566,DEBIT,4,474.9500122,Advance shipping,0,Cardio Equipment,2823,Consumer,68,25,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+18884,DEBIT,4,166.1999969,Late delivery,1,Fitness Accessories,10408,Consumer,30,8.75,COMPLETE,Under Armour Hustle Storm Medium Duffle Bag,34.99000168,Standard Class
+18845,DEBIT,4,165.3300018,Late delivery,1,Fitness Accessories,11011,Consumer,48,9.619999886,COMPLETE,Under Armour Hustle Storm Medium Duffle Bag,34.99000168,Standard Class
+66854,DEBIT,4,464.9500122,Late delivery,1,As Seen on  TV!,40,Consumer,30,35,COMPLETE,Nike Men's Free TR 5.0 TB Training Shoe,99.98999786,Standard Class
+46955,DEBIT,4,454.9500122,Late delivery,1,Cardio Equipment,11636,Consumer,21,45,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+55002,TRANSFER,4,101.9800034,Advance shipping,0,Cleats,7454,Corporate,53,18,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+60445,TRANSFER,4,101.9800034,Late delivery,1,Cleats,5138,Corporate,58,18,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+53586,TRANSFER,4,99.58000183,Advance shipping,0,Cleats,8696,Corporate,42,20.39999962,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+56618,TRANSFER,4,99.58000183,Shipping on time,0,Cleats,2329,Corporate,31,20.39999962,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+51865,TRANSFER,4,99.58000183,Late delivery,1,Cleats,12431,Corporate,65,20.39999962,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+2937,TRANSFER,4,100,Advance shipping,0,Women's Apparel,10860,Corporate,47,0,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+54446,TRANSFER,4,100,Advance shipping,0,Women's Apparel,12094,Corporate,56,0,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+58623,TRANSFER,4,99,Shipping on time,0,Women's Apparel,5088,Corporate,53,1,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+7411,TRANSFER,4,79.18000031,Advance shipping,0,Shop By Sport,2200,Corporate,69,0.800000012,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+5348,TRANSFER,4,97,Shipping on time,0,Women's Apparel,10966,Corporate,70,3,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+59742,TRANSFER,4,96,Advance shipping,0,Women's Apparel,3997,Corporate,75,4,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+59498,TRANSFER,4,76.77999878,Shipping on time,0,Shop By Sport,8746,Corporate,70,3.200000048,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+3459,TRANSFER,4,75.98000336,Late delivery,1,Shop By Sport,3687,Corporate,51,4,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+8470,TRANSFER,4,75.98000336,Late delivery,1,Shop By Sport,9162,Corporate,30,4,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+53455,TRANSFER,4,95,Late delivery,1,Women's Apparel,8993,Corporate,32,5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+2014,TRANSFER,4,132.3000031,Late delivery,1,Girls' Apparel,5875,Corporate,73,7.699999809,PENDING,adidas Youth Germany Black/Red Away Match Soc,70,Standard Class
+55899,TRANSFER,4,46.5,Late delivery,1,Girls' Apparel,2502,Corporate,35,3.5,PENDING,adidas Men's Germany Black Crest Away Tee,25,Standard Class
+52582,TRANSFER,4,93,Advance shipping,0,Women's Apparel,9563,Corporate,35,7,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+56222,TRANSFER,4,93,Advance shipping,0,Women's Apparel,7259,Corporate,54,7,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+57829,TRANSFER,4,72.77999878,Late delivery,1,Shop By Sport,3131,Corporate,30,7.199999809,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+56217,TRANSFER,4,71.98000336,Advance shipping,0,Shop By Sport,4140,Corporate,40,8,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+5893,TRANSFER,4,71.98000336,Shipping on time,0,Shop By Sport,4539,Corporate,50,8,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+5528,TRANSFER,4,90,Shipping on time,0,Women's Apparel,6071,Corporate,71,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+367,TRANSFER,4,71.98000336,Advance shipping,0,Shop By Sport,8730,Corporate,70,8,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+52353,TRANSFER,4,90,Shipping on time,0,Women's Apparel,9634,Corporate,45,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+1784,TRANSFER,4,90,Late delivery,1,Women's Apparel,8010,Corporate,46,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+60317,TRANSFER,4,70.37999725,Advance shipping,0,Shop By Sport,3484,Corporate,55,9.600000381,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+6776,TRANSFER,4,88,Advance shipping,0,Women's Apparel,7307,Corporate,66,12,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+4487,TRANSFER,4,87,Advance shipping,0,Women's Apparel,1975,Corporate,44,13,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+9681,TRANSFER,4,85,Advance shipping,0,Women's Apparel,629,Corporate,71,15,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+60868,TRANSFER,4,66.37999725,Shipping on time,0,Shop By Sport,11753,Corporate,57,13.60000038,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+53231,TRANSFER,4,65.58000183,Advance shipping,0,Girls' Apparel,5375,Corporate,29,14.39999962,PENDING,TYR Boys' Team Digi Jammer,39.99000168,Standard Class
+52601,TRANSFER,4,65.58000183,Advance shipping,0,Shop By Sport,1695,Corporate,55,14.39999962,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+4660,TRANSFER,4,65.58000183,Late delivery,1,Shop By Sport,9884,Corporate,73,14.39999962,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+3539,TRANSFER,4,82,Late delivery,1,Women's Apparel,8498,Corporate,66,18,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+53231,TRANSFER,4,80,Advance shipping,0,Women's Apparel,5375,Corporate,49,20,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+54488,TRANSFER,4,80,Shipping on time,0,Women's Apparel,7534,Corporate,49,20,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+6776,TRANSFER,4,59.99000168,Advance shipping,0,Shop By Sport,7307,Corporate,56,20,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+52549,TRANSFER,4,59.99000168,Late delivery,1,Shop By Sport,123,Corporate,46,20,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+60361,TRANSFER,4,75,Advance shipping,0,Women's Apparel,8498,Corporate,30,25,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+8470,TRANSFER,4,63.34000015,Late delivery,1,Electronics,9162,Corporate,69,0.639999986,PENDING,Bridgestone e6 Straight Distance NFL Tennesse,31.98999977,Standard Class
+5712,TRANSFER,4,47.22999954,Advance shipping,0,Accessories,8925,Corporate,47,2.75,PENDING,Team Golf Texas Longhorns Putter Grip,24.98999977,Standard Class
+9309,TRANSFER,4,35.97999954,Late delivery,1,Golf Balls,5981,Corporate,51,4,PENDING,Glove It Women's Imperial Golf Glove,19.98999977,Standard Class
+8095,TRANSFER,4,84.45999908,Late delivery,1,Electronics,7347,Corporate,26,11.52000046,PENDING,Titleist Pro V1x High Numbers Golf Balls,47.99000168,Standard Class
+75892,TRANSFER,4,262.2000122,Advance shipping,0,Sporting Goods,19445,Corporate,71,65.55000305,PENDING,Smart watch,327.75,Standard Class
+75891,DEBIT,4,245.8099976,Advance shipping,0,Sporting Goods,19444,Corporate,68,81.94000244,COMPLETE,Smart watch,327.75,Standard Class
+75890,DEBIT,2,327.75,Late delivery,1,Sporting Goods,19443,Corporate,30,0,COMPLETE,Smart watch,327.75,Second Class
+75889,DEBIT,4,324.4700012,Late delivery,1,Sporting Goods,19442,Corporate,33,3.279999971,COMPLETE,Smart watch,327.75,Standard Class
+75888,PAYMENT,4,321.2000122,Shipping on time,0,Sporting Goods,19441,Corporate,43,6.559999943,PENDING,Smart watch,327.75,Standard Class
+75887,DEBIT,4,317.9200134,Advance shipping,0,Sporting Goods,19440,Corporate,48,9.829999924,COMPLETE,Smart watch,327.75,Standard Class
+75886,TRANSFER,4,314.6400146,Shipping canceled,0,Sporting Goods,19439,Corporate,42,13.10999966,CANCELED,Smart watch,327.75,Standard Class
+75885,PAYMENT,2,311.3599854,Late delivery,1,Sporting Goods,19438,Home Office,29,16.38999939,PENDING,Smart watch,327.75,Second Class
+75884,TRANSFER,4,309.7200012,Late delivery,1,Sporting Goods,19437,Corporate,46,18.0700069,PENDING,Smart watch,327.75,Standard Class
+75883,DEBIT,1,304.8099976,Late delivery,1,Sporting Goods,19436,Home Office,47,22.94000053,COMPLETE,Smart watch,327.75,First Class
+75882,TRANSFER,4,298.25,Advance shipping,0,Sporting Goods,19435,Consumer,32,29.5,PENDING,Smart watch,327.75,Standard Class
+75881,DEBIT,4,294.980011,Advance shipping,0,Sporting Goods,19434,Corporate,51,32.77999878,COMPLETE,Smart watch,327.75,Standard Class
+75880,DEBIT,4,288.4200134,Late delivery,1,Sporting Goods,19433,Corporate,61,39.3700183,COMPLETE,Smart watch,327.75,Standard Class
+75879,TRANSFER,4,285.1400146,Late delivery,1,Sporting Goods,19432,Corporate,46,42.61000061,PENDING,Smart watch,327.75,Standard Class
+75878,DEBIT,4,278.5899963,Shipping on time,0,Sporting Goods,19431,Corporate,62,49.15999985,COMPLETE,Smart watch,327.75,Standard Class
+75877,TRANSFER,4,275.3099976,Advance shipping,0,Sporting Goods,19430,Corporate,35,52.43999863,PENDING,Smart watch,327.75,Standard Class
+75876,TRANSFER,4,272.0299988,Advance shipping,0,Sporting Goods,19429,Consumer,27,55.72000122,PENDING,Smart watch,327.75,Standard Class
+75875,PAYMENT,2,268.7600098,Late delivery,1,Sporting Goods,19428,Consumer,43,59,PENDING,Smart watch,327.75,Second Class
+75874,PAYMENT,4,262.2000122,Late delivery,1,Sporting Goods,19427,Corporate,65,65.55000305,PENDING,Smart watch,327.75,Standard Class
+75873,TRANSFER,4,245.8099976,Shipping on time,0,Sporting Goods,19426,Consumer,61,81.94000244,PENDING,Smart watch,327.75,Standard Class
+75872,TRANSFER,4,327.75,Advance shipping,0,Sporting Goods,19425,Consumer,32,0,PENDING,Smart watch,327.75,Standard Class
+75871,DEBIT,1,324.4700012,Late delivery,1,Sporting Goods,19424,Consumer,24,3.279999971,COMPLETE,Smart watch,327.75,First Class
+75870,DEBIT,1,321.2000122,Late delivery,1,Sporting Goods,19423,Consumer,25,6.559999943,COMPLETE,Smart watch,327.75,First Class
+75869,DEBIT,1,317.9200134,Late delivery,1,Sporting Goods,19422,Consumer,45,9.829999924,COMPLETE,Smart watch,327.75,First Class
+75868,TRANSFER,1,314.6400146,Late delivery,1,Sporting Goods,19421,Consumer,44,13.10999966,PENDING,Smart watch,327.75,First Class
+75867,TRANSFER,0,311.3599854,Shipping on time,0,Sporting Goods,19420,Home Office,58,16.38999939,PENDING,Smart watch,327.75,Same Day
+75866,PAYMENT,0,309.7200012,Shipping on time,0,Sporting Goods,19419,Home Office,55,18.0700069,PENDING,Smart watch,327.75,Same Day
+75865,CASH,0,304.8099976,Shipping on time,0,Sporting Goods,19418,Consumer,48,22.94000053,COMPLETE,Smart watch,327.75,Same Day
+75864,TRANSFER,4,298.25,Late delivery,1,Sporting Goods,19417,Home Office,23,29.5,PENDING,Smart watch,327.75,Standard Class
+75863,PAYMENT,4,294.980011,Shipping on time,0,Sporting Goods,19416,Home Office,69,32.77999878,PENDING,Smart watch,327.75,Standard Class
+75862,TRANSFER,4,288.4200134,Advance shipping,0,Sporting Goods,19415,Consumer,55,39.3700183,PENDING,Smart watch,327.75,Standard Class
+75861,DEBIT,4,285.1400146,Advance shipping,0,Sporting Goods,19414,Corporate,56,42.61000061,COMPLETE,Smart watch,327.75,Standard Class
+75860,DEBIT,4,278.5899963,Late delivery,1,Sporting Goods,19413,Corporate,37,49.15999985,COMPLETE,Smart watch,327.75,Standard Class
+75859,TRANSFER,4,275.3099976,Shipping canceled,0,Sporting Goods,19412,Corporate,43,52.43999863,CANCELED,Smart watch,327.75,Standard Class
+75858,DEBIT,2,272.0299988,Late delivery,1,Sporting Goods,19411,Corporate,56,55.72000122,COMPLETE,Smart watch,327.75,Second Class
+75857,DEBIT,4,268.7600098,Advance shipping,0,Sporting Goods,19410,Corporate,31,59,COMPLETE,Smart watch,327.75,Standard Class
+75856,DEBIT,2,262.2000122,Shipping on time,0,Sporting Goods,19409,Corporate,40,65.55000305,PENDING,Smart watch,327.75,Second Class
+75855,PAYMENT,1,245.8099976,Late delivery,1,Sporting Goods,19408,Consumer,66,81.94000244,PENDING,Smart watch,327.75,First Class
+75854,DEBIT,2,327.75,Late delivery,1,Sporting Goods,19407,Consumer,72,0,COMPLETE,Smart watch,327.75,Second Class
+75853,PAYMENT,2,324.4700012,Late delivery,1,Sporting Goods,19406,Consumer,18,3.279999971,PENDING,Smart watch,327.75,Second Class
+75852,DEBIT,4,321.2000122,Advance shipping,0,Sporting Goods,19405,Corporate,29,6.559999943,COMPLETE,Smart watch,327.75,Standard Class
+75851,TRANSFER,4,317.9200134,Advance shipping,0,Sporting Goods,19404,Consumer,19,9.829999924,PENDING,Smart watch,327.75,Standard Class
+75850,DEBIT,4,314.6400146,Late delivery,1,Sporting Goods,19403,Corporate,27,13.10999966,COMPLETE,Smart watch,327.75,Standard Class
+75849,PAYMENT,4,311.3599854,Late delivery,1,Sporting Goods,19402,Corporate,31,16.38999939,PENDING,Smart watch,327.75,Standard Class
+75848,PAYMENT,2,309.7200012,Late delivery,1,Sporting Goods,19401,Corporate,71,18.0700069,PENDING,Smart watch,327.75,Second Class
+75847,TRANSFER,2,304.8099976,Shipping canceled,0,Sporting Goods,19400,Corporate,54,22.94000053,CANCELED,Smart watch,327.75,Second Class
+75846,TRANSFER,4,298.25,Advance shipping,0,Sporting Goods,19399,Home Office,38,29.5,PENDING,Smart watch,327.75,Standard Class
+75845,PAYMENT,4,294.980011,Late delivery,1,Sporting Goods,19398,Home Office,15,32.77999878,PENDING,Smart watch,327.75,Standard Class
+75844,TRANSFER,4,288.4200134,Late delivery,1,Sporting Goods,19397,Home Office,14,39.3700183,PENDING,Smart watch,327.75,Standard Class
+75843,PAYMENT,2,285.1400146,Late delivery,1,Sporting Goods,19396,Home Office,56,42.61000061,PENDING,Smart watch,327.75,Second Class
+75842,TRANSFER,4,278.5899963,Advance shipping,0,Sporting Goods,19395,Home Office,21,49.15999985,PENDING,Smart watch,327.75,Standard Class
+75841,DEBIT,4,275.3099976,Advance shipping,0,Sporting Goods,19394,Home Office,68,52.43999863,COMPLETE,Smart watch,327.75,Standard Class
+75840,CASH,2,272.0299988,Late delivery,1,Sporting Goods,19393,Home Office,60,55.72000122,COMPLETE,Smart watch,327.75,Second Class
+75839,TRANSFER,2,268.7600098,Late delivery,1,Sporting Goods,19392,Home Office,70,59,PENDING,Smart watch,327.75,Second Class
+75838,PAYMENT,1,262.2000122,Late delivery,1,Sporting Goods,19391,Corporate,27,65.55000305,PENDING,Smart watch,327.75,First Class
+75837,CASH,1,245.8099976,Late delivery,1,Sporting Goods,19390,Home Office,70,81.94000244,COMPLETE,Smart watch,327.75,First Class
+75836,CASH,2,327.75,Shipping on time,0,Sporting Goods,19389,Corporate,65,0,COMPLETE,Smart watch,327.75,Second Class
+75835,DEBIT,2,324.4700012,Late delivery,1,Sporting Goods,19388,Corporate,25,3.279999971,COMPLETE,Smart watch,327.75,Second Class
+75834,PAYMENT,2,321.2000122,Late delivery,1,Sporting Goods,19387,Corporate,48,6.559999943,PENDING,Smart watch,327.75,Second Class
+75833,DEBIT,1,317.9200134,Late delivery,1,Sporting Goods,19386,Corporate,56,9.829999924,COMPLETE,Smart watch,327.75,First Class
+75832,CASH,1,314.6400146,Late delivery,1,Sporting Goods,19385,Corporate,32,13.10999966,COMPLETE,Smart watch,327.75,First Class
+75831,PAYMENT,1,311.3599854,Late delivery,1,Sporting Goods,19384,Home Office,60,16.38999939,PENDING,Smart watch,327.75,First Class
+75830,PAYMENT,4,309.7200012,Late delivery,1,Sporting Goods,19383,Corporate,56,18.0700069,PENDING,Smart watch,327.75,Standard Class
+75829,PAYMENT,4,304.8099976,Late delivery,1,Sporting Goods,19382,Corporate,44,22.94000053,PENDING,Smart watch,327.75,Standard Class
+75828,DEBIT,4,298.25,Shipping on time,0,Sporting Goods,19381,Consumer,21,29.5,PENDING,Smart watch,327.75,Standard Class
+75827,DEBIT,4,294.980011,Advance shipping,0,Sporting Goods,19380,Consumer,34,32.77999878,COMPLETE,Smart watch,327.75,Standard Class
+75826,CASH,4,288.4200134,Advance shipping,0,Sporting Goods,19379,Home Office,69,39.3700183,COMPLETE,Smart watch,327.75,Standard Class
+75825,DEBIT,4,285.1400146,Late delivery,1,Sporting Goods,19378,Consumer,61,42.61000061,COMPLETE,Smart watch,327.75,Standard Class
+75824,CASH,4,278.5899963,Late delivery,1,Sporting Goods,19377,Consumer,44,49.15999985,COMPLETE,Smart watch,327.75,Standard Class
+75823,TRANSFER,4,275.3099976,Shipping on time,0,Sporting Goods,19376,Corporate,41,52.43999863,PENDING,Smart watch,327.75,Standard Class
+75822,DEBIT,4,272.0299988,Advance shipping,0,Sporting Goods,19375,Consumer,34,55.72000122,COMPLETE,Smart watch,327.75,Standard Class
+75821,DEBIT,4,268.7600098,Advance shipping,0,Sporting Goods,19374,Consumer,32,59,COMPLETE,Smart watch,327.75,Standard Class
+75820,DEBIT,4,262.2000122,Late delivery,1,Sporting Goods,19373,Home Office,28,65.55000305,COMPLETE,Smart watch,327.75,Standard Class
+75819,DEBIT,4,245.8099976,Late delivery,1,Sporting Goods,19372,Home Office,19,81.94000244,COMPLETE,Smart watch,327.75,Standard Class
+75818,TRANSFER,4,327.75,Shipping on time,0,Sporting Goods,19371,Home Office,29,0,PENDING,Smart watch,327.75,Standard Class
+75817,CASH,4,324.4700012,Advance shipping,0,Sporting Goods,19370,Corporate,54,3.279999971,COMPLETE,Smart watch,327.75,Standard Class
+75816,TRANSFER,4,321.2000122,Advance shipping,0,Sporting Goods,19369,Corporate,31,6.559999943,PENDING,Smart watch,327.75,Standard Class
+75815,DEBIT,4,317.9200134,Late delivery,1,Sporting Goods,19368,Consumer,69,9.829999924,COMPLETE,Smart watch,327.75,Standard Class
+75814,PAYMENT,4,314.6400146,Late delivery,1,Sporting Goods,19367,Consumer,51,13.10999966,PENDING,Smart watch,327.75,Standard Class
+75813,PAYMENT,2,311.3599854,Late delivery,1,Sporting Goods,19366,Consumer,69,16.38999939,PENDING,Smart watch,327.75,Second Class
+75812,PAYMENT,2,309.7200012,Late delivery,1,Sporting Goods,19365,Consumer,33,18.0700069,PENDING,Smart watch,327.75,Second Class
+75811,PAYMENT,1,304.8099976,Late delivery,1,Sporting Goods,19364,Consumer,22,22.94000053,PENDING,Smart watch,327.75,First Class
+75810,DEBIT,2,298.25,Late delivery,1,Sporting Goods,19363,Consumer,72,29.5,PENDING,Smart watch,327.75,Second Class
+75809,DEBIT,2,294.980011,Late delivery,1,Sporting Goods,19362,Consumer,54,32.77999878,PENDING,Smart watch,327.75,Second Class
+75808,DEBIT,2,288.4200134,Late delivery,1,Sporting Goods,19361,Consumer,32,39.3700183,COMPLETE,Smart watch,327.75,Second Class
+75807,PAYMENT,0,285.1400146,Late delivery,1,Sporting Goods,19360,Corporate,36,42.61000061,PENDING,Smart watch,327.75,Same Day
+75806,DEBIT,0,278.5899963,Late delivery,1,Sporting Goods,19359,Corporate,45,49.15999985,COMPLETE,Smart watch,327.75,Same Day
+75805,DEBIT,0,275.3099976,Late delivery,1,Sporting Goods,19358,Corporate,57,52.43999863,COMPLETE,Smart watch,327.75,Same Day
+75804,DEBIT,0,272.0299988,Late delivery,1,Sporting Goods,19357,Corporate,32,55.72000122,COMPLETE,Smart watch,327.75,Same Day
+75803,CASH,0,268.7600098,Late delivery,1,Sporting Goods,19356,Consumer,55,59,COMPLETE,Smart watch,327.75,Same Day
+75802,TRANSFER,0,262.2000122,Shipping canceled,0,Sporting Goods,19355,Corporate,37,65.55000305,CANCELED,Smart watch,327.75,Same Day
+75801,DEBIT,0,245.8099976,Late delivery,1,Sporting Goods,19354,Home Office,46,81.94000244,COMPLETE,Smart watch,327.75,Same Day
+75800,DEBIT,4,327.75,Late delivery,1,Sporting Goods,19353,Consumer,62,0,COMPLETE,Smart watch,327.75,Standard Class
+75799,DEBIT,4,324.4700012,Late delivery,1,Sporting Goods,19352,Home Office,51,3.279999971,COMPLETE,Smart watch,327.75,Standard Class
+75798,TRANSFER,4,321.2000122,Shipping on time,0,Sporting Goods,19351,Home Office,31,6.559999943,PENDING,Smart watch,327.75,Standard Class
+75797,TRANSFER,4,317.9200134,Advance shipping,0,Sporting Goods,19350,Consumer,67,9.829999924,PENDING,Smart watch,327.75,Standard Class
+5895,PAYMENT,2,120,Late delivery,1,Women's Apparel,8707,Home Office,27,30,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+3130,PAYMENT,2,112.5,Late delivery,1,Women's Apparel,12069,Home Office,49,37.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+49521,PAYMENT,2,254.9700012,Shipping on time,0,Cardio Equipment,9597,Home Office,62,45,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+30305,PAYMENT,2,113.9700012,Late delivery,1,Shop By Sport,9702,Home Office,39,6,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+50054,PAYMENT,2,254.9700012,Late delivery,1,Cardio Equipment,1362,Home Office,47,45,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+27772,PAYMENT,2,178.1699982,Late delivery,1,Cleats,9467,Home Office,25,1.799999952,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+47752,PAYMENT,2,172.7700043,Late delivery,1,Cleats,9114,Home Office,27,7.199999809,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+31296,PAYMENT,2,170.0700073,Shipping on time,0,Cleats,2546,Home Office,20,9.899999619,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+22076,PAYMENT,2,163.7700043,Shipping on time,0,Cleats,2240,Home Office,74,16.20000076,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+25665,PAYMENT,2,152.9700012,Late delivery,1,Cleats,11650,Home Office,62,27,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+31296,PAYMENT,2,150,Shipping on time,0,Women's Apparel,2546,Home Office,34,0,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+22819,PAYMENT,2,95.98000336,Late delivery,1,Shop By Sport,10368,Home Office,22,23.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+27099,PAYMENT,2,65.30999756,Late delivery,1,Trade-In,6489,Home Office,52,0.660000026,PENDING,Glove It Women's Mod Oval 3-Zip Carry All Gol,21.98999977,Second Class
+28292,PAYMENT,2,35.97999954,Late delivery,1,Trade-In,10533,Home Office,39,11.98999977,PENDING,Glove It Urban Brick Golf Towel,15.98999977,Second Class
+39159,PAYMENT,2,156.5700073,Late delivery,1,Cleats,11292,Home Office,21,23.39999962,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+32090,PAYMENT,2,114.7200012,Late delivery,1,Tennis & Racquet,7864,Home Office,19,20.25,PENDING,Nike Men's Comfort 2 Slide,44.99000168,Second Class
+34631,PAYMENT,2,293.9700012,Shipping on time,0,Cardio Equipment,47,Home Office,54,6,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+37669,PAYMENT,2,278.9700012,Late delivery,1,Cardio Equipment,6405,Home Office,29,21,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+37669,PAYMENT,2,152.9700012,Late delivery,1,Cleats,6405,Home Office,75,27,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+34773,PAYMENT,2,145.5,Late delivery,1,Women's Apparel,11169,Home Office,49,4.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+40085,PAYMENT,2,139.5,Late delivery,1,Women's Apparel,2426,Home Office,58,10.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+47262,PAYMENT,2,335.9700012,Late delivery,1,Cardio Equipment,8133,Home Office,69,63.99000168,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+44771,PAYMENT,2,122.8399963,Shipping on time,0,Electronics,1429,Home Office,48,5.119999886,PENDING,Bridgestone e6 Straight Distance NFL Carolina,31.98999977,Second Class
+13890,PAYMENT,2,395.9599915,Late delivery,1,Cardio Equipment,9120,Home Office,29,4,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+17071,PAYMENT,2,126.6800003,Shipping on time,0,Electronics,12221,Home Office,32,1.279999971,PENDING,Under Armour Women's Ignite Slide,31.98999977,Second Class
+11321,PAYMENT,2,391.9599915,Shipping on time,0,Cardio Equipment,9415,Home Office,55,8,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+64813,PAYMENT,2,227.9600067,Late delivery,1,Cleats,10018,Home Office,30,12,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+17162,PAYMENT,2,201.5700073,Late delivery,1,Cleats,54,Home Office,23,38.38999939,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+12827,PAYMENT,2,201.5700073,Late delivery,1,Cleats,542,Home Office,54,38.38999939,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+11936,PAYMENT,2,200,Shipping on time,0,Women's Apparel,724,Home Office,63,0,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+68337,PAYMENT,2,156.7599945,Late delivery,1,Shop By Sport,8897,Home Office,22,3.200000048,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+45746,PAYMENT,2,190,Shipping on time,0,Women's Apparel,7112,Home Office,44,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+64813,PAYMENT,2,189,Late delivery,1,Women's Apparel,10018,Home Office,36,11,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+13736,PAYMENT,2,186,Shipping on time,0,Women's Apparel,1086,Home Office,45,14,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+49622,PAYMENT,2,145.5599976,Late delivery,1,Shop By Sport,7112,Home Office,38,14.39999962,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+19444,PAYMENT,2,180,Late delivery,1,Women's Apparel,2916,Home Office,23,20,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+63936,PAYMENT,2,127.9700012,Shipping on time,0,Shop By Sport,11329,Home Office,43,31.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+49622,PAYMENT,2,84.97000122,Late delivery,1,Accessories,7112,Home Office,32,14.98999977,PENDING,Team Golf Pittsburgh Steelers Putter Grip,24.98999977,Second Class
+51911,PAYMENT,2,395.9599915,Shipping on time,0,Cardio Equipment,11339,Home Office,62,4,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+58239,PAYMENT,2,339.9700012,Late delivery,1,Cardio Equipment,10166,Home Office,43,59.99000168,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+56678,PAYMENT,2,335.9700012,Late delivery,1,Cardio Equipment,3091,Home Office,31,63.99000168,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+53202,PAYMENT,2,239.9600067,Late delivery,1,Cleats,5007,Home Office,34,0,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+58738,PAYMENT,2,203.9700012,Late delivery,1,Cleats,1070,Home Office,42,35.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+56260,PAYMENT,2,201.5700073,Late delivery,1,Cleats,6871,Home Office,20,38.38999939,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+5042,PAYMENT,2,189,Late delivery,1,Women's Apparel,2339,Home Office,51,11,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+53202,PAYMENT,2,135.9700012,Late delivery,1,Shop By Sport,5007,Home Office,34,23.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+55511,PAYMENT,2,170,Shipping on time,0,Women's Apparel,4232,Home Office,35,30,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+54128,PAYMENT,2,203.8000031,Late delivery,1,Electronics,8986,Home Office,35,4.159999847,PENDING,Titleist Pro V1x High Numbers Personalized Go,51.99000168,Second Class
+21244,PAYMENT,2,94.45999908,Late delivery,1,Accessories,6491,Home Office,16,5.5,PENDING,Team Golf St. Louis Cardinals Putter Grip,24.98999977,Second Class
+47752,PAYMENT,2,227.9600067,Late delivery,1,Cleats,9114,Home Office,35,12,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+31239,PAYMENT,2,215.9600067,Late delivery,1,Cleats,5564,Home Office,34,24,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+45772,PAYMENT,2,196.7700043,Late delivery,1,Cleats,7955,Home Office,14,43.18999863,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+24661,PAYMENT,2,153.5599976,Shipping on time,0,Shop By Sport,5728,Home Office,38,6.400000095,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+50054,PAYMENT,2,192,Late delivery,1,Women's Apparel,1362,Home Office,19,8,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+22924,PAYMENT,2,151.9600067,Late delivery,1,Shop By Sport,9704,Home Office,19,8,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+21902,PAYMENT,2,189,Late delivery,1,Women's Apparel,8485,Home Office,54,11,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+21534,PAYMENT,2,131.1699982,Late delivery,1,Shop By Sport,11216,Home Office,16,28.79000092,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+45461,PAYMENT,2,164,Shipping on time,0,Women's Apparel,4741,Home Office,17,36,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+24160,PAYMENT,2,95.95999908,Late delivery,1,Accessories,12160,Home Office,54,4,PENDING,Team Golf St. Louis Cardinals Putter Grip,24.98999977,Second Class
+39159,PAYMENT,2,166,Late delivery,1,Women's Apparel,11292,Home Office,57,34,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+32102,PAYMENT,2,126.6800003,Late delivery,1,Electronics,6352,Home Office,38,1.279999971,PENDING,Under Armour Women's Ignite PIP VI Slide,31.98999977,Second Class
+37763,PAYMENT,2,208.7700043,Late delivery,1,Cleats,5870,Home Office,17,31.19000053,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+37867,PAYMENT,2,191.9700012,Late delivery,1,Cleats,11776,Home Office,14,47.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+31905,PAYMENT,2,179.9700012,Late delivery,1,Cleats,7060,Home Office,25,59.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+36269,PAYMENT,2,179.9700012,Late delivery,1,Cleats,3466,Home Office,55,59.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+37867,PAYMENT,2,179.9700012,Late delivery,1,Cleats,11776,Home Office,35,59.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+40085,PAYMENT,2,145.5599976,Late delivery,1,Shop By Sport,2426,Home Office,74,14.39999962,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+40085,PAYMENT,2,170,Late delivery,1,Women's Apparel,2426,Home Office,41,30,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+48374,PAYMENT,2,434.9599915,Late delivery,1,Cardio Equipment,1834,Home Office,29,64.98999786,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+48434,PAYMENT,2,227.5,Late delivery,1,Women's Apparel,9451,Home Office,52,22.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+17719,PAYMENT,2,499.9500122,Late delivery,1,Cardio Equipment,2439,Home Office,44,0,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+15766,PAYMENT,2,439.9599915,Shipping on time,0,Cardio Equipment,6416,Home Office,23,59.99000168,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+12179,PAYMENT,2,290.9500122,Late delivery,1,Cleats,6310,Home Office,51,9,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+66275,PAYMENT,2,248.9600067,Late delivery,1,Cleats,9029,Home Office,70,50.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+13140,PAYMENT,2,248.9600067,Late delivery,1,Cleats,295,Home Office,56,50.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+16444,PAYMENT,2,245.9600067,Late delivery,1,Cleats,9011,Home Office,63,53.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+15766,PAYMENT,2,195.9499969,Shipping on time,0,Girls' Apparel,6416,Home Office,15,4,PENDING,TYR Boys' Team Digi Jammer,39.99000168,Second Class
+65030,PAYMENT,2,227.5,Late delivery,1,Women's Apparel,3570,Home Office,21,22.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+14454,PAYMENT,2,225,Late delivery,1,Women's Apparel,1577,Home Office,65,25,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+13736,PAYMENT,2,225,Shipping on time,0,Women's Apparel,1086,Home Office,61,25,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+67979,PAYMENT,2,179.9600067,Late delivery,1,Shop By Sport,1568,Home Office,46,20,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Second Class
+65030,PAYMENT,2,225,Late delivery,1,Women's Apparel,3570,Home Office,24,25,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+66275,PAYMENT,2,212.5,Late delivery,1,Women's Apparel,9029,Home Office,60,37.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+65264,PAYMENT,2,212.5,Late delivery,1,Women's Apparel,9047,Home Office,52,37.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+11936,PAYMENT,2,290.5,Shipping on time,0,Girls' Apparel,724,Home Office,61,59.5,PENDING,adidas Youth Germany Black/Red Away Match Soc,70,Second Class
+13890,PAYMENT,2,205,Late delivery,1,Women's Apparel,9120,Home Office,28,45,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+51226,PAYMENT,2,96.94999695,Shipping on time,0,Golf Balls,7603,Home Office,62,3,PENDING,Glove It Women's Imperial Golf Glove,19.98999977,Second Class
+52576,PAYMENT,2,240,Shipping on time,0,Women's Apparel,6746,Home Office,45,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Second Class
+53202,PAYMENT,2,158.3500061,Late delivery,1,Electronics,5007,Home Office,26,1.600000024,PENDING,Under Armour Women's Ignite PIP VI Slide,31.98999977,Second Class
+67753,DEBIT,2,351.9899902,Late delivery,1,Strength Training,1566,Consumer,37,48,COMPLETE,GoPro HERO3+ Black Edition Camera,399.9899902,Second Class
+15421,DEBIT,2,86.98999786,Shipping on time,0,Cardio Equipment,2918,Consumer,70,13,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Second Class
+13225,DEBIT,2,23.51000023,Late delivery,1,Electronics,1491,Consumer,63,4.480000019,COMPLETE,Under Armour Kids' Mercenary Slide,27.98999977,Second Class
+71362,DEBIT,2,461.480011,Late delivery,1,Crafts,14915,Consumer,53,0,COMPLETE,Porcelain crafts,461.480011,Second Class
+13232,DEBIT,2,129.9900055,Late delivery,1,Men's Footwear,9619,Consumer,54,0,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+67753,DEBIT,2,299.9899902,Late delivery,1,Cleats,1566,Consumer,55,0,COMPLETE,Total Gym 1400,299.9899902,Second Class
+68879,DEBIT,2,129.9900055,Late delivery,1,Men's Footwear,778,Consumer,75,0,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+65487,DEBIT,2,129.9900055,Late delivery,1,Men's Footwear,2363,Consumer,63,0,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+65105,DEBIT,2,129.9900055,Late delivery,1,Men's Footwear,5898,Consumer,28,0,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+14837,DEBIT,2,129.9900055,Late delivery,1,Men's Footwear,1948,Consumer,21,0,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+46224,DEBIT,2,59.38999939,Late delivery,1,Cleats,1820,Consumer,53,0.600000024,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+71217,DEBIT,2,456.8699951,Late delivery,1,Crafts,14770,Consumer,29,4.610000134,COMPLETE,Porcelain crafts,461.480011,Second Class
+63972,DEBIT,2,128.6900024,Late delivery,1,Men's Footwear,1962,Consumer,34,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+19200,DEBIT,2,128.6900024,Late delivery,1,Men's Footwear,7175,Consumer,57,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+18009,DEBIT,2,128.6900024,Late delivery,1,Men's Footwear,1222,Consumer,34,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+10831,DEBIT,2,128.6900024,Shipping on time,0,Men's Footwear,487,Consumer,47,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+68107,DEBIT,2,128.6900024,Late delivery,1,Men's Footwear,2217,Consumer,18,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+15421,DEBIT,2,128.6900024,Shipping on time,0,Men's Footwear,2918,Consumer,52,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+71271,DEBIT,2,456.8699951,Shipping on time,0,Crafts,14824,Consumer,52,4.610000134,COMPLETE,Porcelain crafts,461.480011,Second Class
+68879,DEBIT,2,128.6900024,Late delivery,1,Men's Footwear,778,Consumer,71,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+65487,DEBIT,2,128.6900024,Late delivery,1,Men's Footwear,2363,Consumer,72,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+16953,DEBIT,2,128.6900024,Late delivery,1,Men's Footwear,2078,Consumer,65,1.299999952,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+49664,DEBIT,2,58.79000092,Late delivery,1,Cleats,10497,Consumer,16,1.200000048,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+16446,DEBIT,2,127.3899994,Shipping on time,0,Men's Footwear,4695,Consumer,43,2.599999905,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+10831,DEBIT,2,127.3899994,Shipping on time,0,Men's Footwear,487,Consumer,38,2.599999905,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+14960,DEBIT,2,58.79000092,Late delivery,1,Cleats,9857,Consumer,68,1.200000048,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+18005,DEBIT,2,126.0899963,Late delivery,1,Men's Footwear,2168,Consumer,40,3.900000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+10831,DEBIT,2,126.0899963,Shipping on time,0,Men's Footwear,487,Consumer,33,3.900000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+12804,DEBIT,2,58.18999863,Late delivery,1,Cleats,4078,Consumer,25,1.799999952,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+14651,DEBIT,2,126.0899963,Shipping on time,0,Men's Footwear,11887,Consumer,19,3.900000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+10990,DEBIT,2,126.0899963,Late delivery,1,Men's Footwear,6588,Consumer,33,3.900000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+65609,DEBIT,2,124.7900009,Late delivery,1,Men's Footwear,7167,Consumer,53,5.199999809,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+17878,DEBIT,2,124.7900009,Late delivery,1,Men's Footwear,1459,Consumer,18,5.199999809,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+16998,DEBIT,2,124.7900009,Late delivery,1,Men's Footwear,548,Consumer,23,5.199999809,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+13970,DEBIT,2,124.7900009,Late delivery,1,Men's Footwear,5224,Consumer,70,5.199999809,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+10990,DEBIT,2,124.7900009,Late delivery,1,Men's Footwear,6588,Consumer,73,5.199999809,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+13614,DEBIT,2,56.99000168,Late delivery,1,Cleats,2686,Consumer,55,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+44388,DEBIT,2,122.8399963,Late delivery,1,Men's Footwear,468,Consumer,20,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+13050,DEBIT,2,56.68999863,Late delivery,1,Cleats,8456,Consumer,29,3.299999952,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+12613,DEBIT,2,122.8399963,Late delivery,1,Men's Footwear,1260,Consumer,26,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+66587,DEBIT,2,122.8399963,Late delivery,1,Men's Footwear,3050,Consumer,32,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+62795,DEBIT,2,122.8399963,Late delivery,1,Men's Footwear,10308,Consumer,58,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+18950,DEBIT,2,122.8399963,Late delivery,1,Men's Footwear,6428,Consumer,71,7.150000095,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+19610,DEBIT,2,120.8899994,Late delivery,1,Men's Footwear,387,Consumer,25,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+65011,DEBIT,2,120.8899994,Shipping on time,0,Men's Footwear,2270,Consumer,30,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+19380,DEBIT,2,120.8899994,Late delivery,1,Men's Footwear,482,Consumer,32,9.100000381,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+65005,DEBIT,2,118.2900009,Late delivery,1,Men's Footwear,1956,Consumer,18,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+20085,DEBIT,2,118.2900009,Late delivery,1,Men's Footwear,7466,Consumer,18,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+18245,DEBIT,2,118.2900009,Late delivery,1,Men's Footwear,8224,Consumer,47,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+17810,DEBIT,2,118.2900009,Late delivery,1,Men's Footwear,6365,Consumer,21,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+19817,DEBIT,2,118.2900009,Late delivery,1,Men's Footwear,3490,Consumer,55,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+10444,DEBIT,2,118.2900009,Late delivery,1,Men's Footwear,1596,Consumer,16,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+64637,DEBIT,2,116.9899979,Late delivery,1,Men's Footwear,9857,Consumer,69,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+15269,DEBIT,2,116.9899979,Late delivery,1,Men's Footwear,3969,Consumer,49,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+14064,DEBIT,2,116.9899979,Late delivery,1,Men's Footwear,9342,Consumer,41,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+14551,DEBIT,2,53.99000168,Shipping on time,0,Cleats,2028,Consumer,59,6,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+12698,DEBIT,2,53.99000168,Late delivery,1,Cleats,3940,Consumer,56,6,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+47758,DEBIT,2,114.3899994,Late delivery,1,Men's Footwear,8293,Consumer,60,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+68220,DEBIT,2,114.3899994,Late delivery,1,Men's Footwear,9962,Consumer,72,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+14730,DEBIT,2,114.3899994,Late delivery,1,Men's Footwear,8098,Consumer,36,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+66411,DEBIT,2,114.3899994,Shipping on time,0,Men's Footwear,8348,Consumer,44,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+12535,DEBIT,2,114.3899994,Late delivery,1,Men's Footwear,653,Consumer,50,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+67712,DEBIT,2,114.3899994,Late delivery,1,Men's Footwear,8645,Consumer,74,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+18593,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,1275,Consumer,45,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+17909,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,11189,Consumer,38,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+16302,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,5988,Consumer,66,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+14730,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,8098,Consumer,40,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+13343,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,9726,Consumer,33,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+62117,DEBIT,2,52.18999863,Late delivery,1,Cleats,5113,Consumer,68,7.800000191,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+62637,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,9726,Consumer,29,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+67845,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,482,Consumer,27,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+67712,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,8645,Consumer,59,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+11209,DEBIT,2,113.0899963,Late delivery,1,Men's Footwear,7202,Consumer,66,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+41494,DEBIT,2,50.99000168,Late delivery,1,Cleats,1173,Consumer,67,9,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+18593,DEBIT,2,110.4899979,Late delivery,1,Men's Footwear,1275,Consumer,19,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+13343,DEBIT,2,110.4899979,Late delivery,1,Men's Footwear,9726,Consumer,57,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+62637,DEBIT,2,110.4899979,Late delivery,1,Men's Footwear,9726,Consumer,56,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+70044,DEBIT,2,303.5400085,Late delivery,1,Children's Clothing,13597,Consumer,35,53.5699997,COMPLETE,Children's heaters,357.1000061,Second Class
+67753,DEBIT,2,110.4899979,Late delivery,1,Men's Footwear,1566,Consumer,42,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+16617,DEBIT,2,110.4899979,Late delivery,1,Men's Footwear,4047,Consumer,62,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+14574,DEBIT,2,110.4899979,Late delivery,1,Men's Footwear,6594,Consumer,55,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+12698,DEBIT,2,110.4899979,Late delivery,1,Men's Footwear,3940,Consumer,31,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+15599,DEBIT,2,109.1900024,Late delivery,1,Men's Footwear,1186,Consumer,38,20.79999924,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+13343,DEBIT,2,109.1900024,Late delivery,1,Men's Footwear,9726,Consumer,34,20.79999924,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+20072,DEBIT,2,109.1900024,Late delivery,1,Men's Footwear,4279,Consumer,60,20.79999924,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+12323,DEBIT,2,50.38999939,Late delivery,1,Cleats,4151,Consumer,58,9.600000381,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Second Class
+71295,DEBIT,2,387.6400146,Late delivery,1,Crafts,14848,Consumer,55,73.83999634,COMPLETE,Porcelain crafts,461.480011,Second Class
+66351,DEBIT,2,109.1900024,Shipping on time,0,Men's Footwear,4697,Consumer,14,20.79999924,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+12698,DEBIT,2,109.1900024,Late delivery,1,Men's Footwear,3940,Consumer,15,20.79999924,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+44148,DEBIT,2,107.8899994,Late delivery,1,Men's Footwear,5887,Consumer,64,22.10000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Second Class
+53540,TRANSFER,4,283.4500122,Late delivery,1,Cleats,8524,Consumer,44,16.5,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+53069,TRANSFER,4,272.9500122,Late delivery,1,Cleats,4126,Consumer,20,27,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+57570,TRANSFER,4,269.9599915,Late delivery,1,Cleats,3207,Consumer,72,30,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+5154,TRANSFER,4,263.9599915,Late delivery,1,Cleats,12310,Consumer,21,35.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+9122,TRANSFER,4,263.9599915,Advance shipping,0,Cleats,1222,Consumer,53,35.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+4427,TRANSFER,4,260.9599915,Advance shipping,0,Cleats,8397,Consumer,61,38.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+9340,TRANSFER,4,254.9600067,Late delivery,1,Cleats,6306,Consumer,55,44.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+9331,TRANSFER,4,251.9600067,Advance shipping,0,Cleats,8002,Consumer,75,47.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+58315,TRANSFER,4,248.9600067,Late delivery,1,Cleats,12382,Consumer,22,50.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+54572,TRANSFER,4,224.9600067,Advance shipping,0,Cleats,7844,Consumer,70,74.98999786,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+51746,TRANSFER,4,199.9499969,Advance shipping,0,Shop By Sport,12291,Consumer,68,0,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+4269,TRANSFER,4,250,Late delivery,1,Women's Apparel,6523,Consumer,70,0,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+61346,TRANSFER,4,199.9499969,Advance shipping,0,Shop By Sport,4078,Consumer,27,0,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+1999,TRANSFER,4,247.5,Late delivery,1,Women's Apparel,4867,Consumer,38,2.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+53576,TRANSFER,4,346.5,Advance shipping,0,Girls' Apparel,5301,Consumer,68,3.5,PENDING,adidas Youth Germany Black/Red Away Match Soc,70,Standard Class
+57152,TRANSFER,4,245,Advance shipping,0,Women's Apparel,4784,Consumer,43,5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+51674,TRANSFER,4,122.5,Late delivery,1,Girls' Apparel,8348,Consumer,51,2.5,PENDING,adidas Men's Germany Black Crest Away Tee,25,Standard Class
+55336,TRANSFER,4,195.9499969,Advance shipping,0,Shop By Sport,7446,Consumer,33,4,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+53810,TRANSFER,4,195.9499969,Late delivery,1,Shop By Sport,11455,Consumer,56,4,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+59301,TRANSFER,4,240,Advance shipping,0,Women's Apparel,5364,Consumer,14,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+8410,TRANSFER,4,240,Late delivery,1,Women's Apparel,259,Consumer,35,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+8123,TRANSFER,4,240,Shipping on time,0,Women's Apparel,11290,Consumer,30,10,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+60567,TRANSFER,4,237.5,Advance shipping,0,Women's Apparel,8517,Consumer,52,12.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+2203,TRANSFER,4,236.25,Shipping on time,0,Women's Apparel,7701,Consumer,51,13.75,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+3527,TRANSFER,4,179.9600067,Advance shipping,0,Girls' Apparel,7407,Consumer,56,20,PENDING,TYR Boys' Team Digi Jammer,39.99000168,Standard Class
+2428,TRANSFER,4,173.9600067,Shipping on time,0,Shop By Sport,5965,Consumer,49,25.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+55174,TRANSFER,4,217.5,Late delivery,1,Women's Apparel,8677,Consumer,21,32.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+57032,TRANSFER,4,217.5,Advance shipping,0,Women's Apparel,10093,Consumer,64,32.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+10113,TRANSFER,4,217.5,Shipping on time,0,Women's Apparel,12119,Consumer,68,32.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+52250,TRANSFER,4,212.5,Late delivery,1,Women's Apparel,8274,Consumer,19,37.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+8906,TRANSFER,4,212.5,Advance shipping,0,Women's Apparel,2291,Consumer,24,37.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+1386,TRANSFER,4,169.9600067,Advance shipping,0,Shop By Sport,11310,Consumer,73,29.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+59226,TRANSFER,4,167.9600067,Advance shipping,0,Shop By Sport,155,Consumer,26,31.98999977,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+8847,TRANSFER,4,210,Advance shipping,0,Women's Apparel,4998,Consumer,22,40,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+57929,TRANSFER,4,163.9600067,Late delivery,1,Shop By Sport,7720,Consumer,48,35.99000168,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+53505,TRANSFER,4,200,Late delivery,1,Women's Apparel,3099,Consumer,63,50,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+55636,TRANSFER,4,280,Advance shipping,0,Girls' Apparel,5011,Consumer,38,70,PENDING,adidas Youth Germany Black/Red Away Match Soc,70,Standard Class
+57128,TRANSFER,4,239.9499969,Shipping on time,0,Electronics,2643,Consumer,65,0,PENDING,Titleist Pro V1x Golf Balls,47.99000168,Standard Class
+8728,TRANSFER,4,122.4499969,Shipping on time,0,Accessories,9501,Consumer,45,2.5,PENDING,Team Golf New England Patriots Putter Grip,24.98999977,Standard Class
+1105,TRANSFER,4,230.3500061,Late delivery,1,Electronics,9760,Consumer,63,9.600000381,PENDING,Titleist Pro V1x Golf Balls,47.99000168,Standard Class
+1797,TRANSFER,4,118.0800018,Advance shipping,0,Accessories,11793,Consumer,61,6.869999886,PENDING,Team Golf San Francisco Giants Putter Grip,24.98999977,Standard Class
+1634,TRANSFER,4,113.6999969,Late delivery,1,Accessories,7273,Consumer,42,11.25,PENDING,Team Golf Texas Longhorns Putter Grip,24.98999977,Standard Class
+53576,TRANSFER,4,71.95999908,Advance shipping,0,Trade-In,5301,Consumer,31,8,PENDING,Glove It Urban Brick Golf Towel,15.98999977,Standard Class
+10113,TRANSFER,4,104.9599991,Shipping on time,0,Accessories,12119,Consumer,50,19.98999977,PENDING,Team Golf Pittsburgh Steelers Putter Grip,24.98999977,Standard Class
+6176,TRANSFER,4,284.9500122,Shipping canceled,0,Cleats,3329,Consumer,25,15,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+60460,TRANSFER,4,272.9500122,Shipping canceled,0,Cleats,9429,Consumer,23,27,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+580,TRANSFER,4,269.9599915,Shipping canceled,0,Cleats,8677,Consumer,72,30,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+56244,TRANSFER,4,254.9600067,Shipping canceled,0,Cleats,437,Consumer,41,44.99000168,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+6522,TRANSFER,4,245.9600067,Shipping canceled,0,Cleats,2538,Consumer,43,53.99000168,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+58298,TRANSFER,4,224.9600067,Shipping canceled,0,Cleats,4280,Consumer,35,74.98999786,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+3625,TRANSFER,4,193.9499969,Shipping canceled,0,Shop By Sport,2813,Consumer,53,6,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+52321,TRANSFER,4,240,Shipping canceled,0,Women's Apparel,4249,Consumer,33,10,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+58896,TRANSFER,4,225,Shipping canceled,0,Women's Apparel,9697,Consumer,52,25,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+5919,TRANSFER,4,315,Shipping canceled,0,Girls' Apparel,6306,Consumer,17,35,CANCELED,adidas Youth Germany Black/Red Away Match Soc,70,Standard Class
+52772,TRANSFER,4,220,Shipping canceled,0,Women's Apparel,27,Consumer,29,30,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+9063,TRANSFER,4,123,Shipping canceled,0,Girls' Apparel,5274,Consumer,32,27,CANCELED,Nike Men's Deutschland Weltmeister Winners Bl,30,Standard Class
+61419,TRANSFER,4,200,Shipping canceled,0,Women's Apparel,11273,Consumer,38,50,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+5919,TRANSFER,4,149.9600067,Shipping canceled,0,Shop By Sport,6306,Consumer,72,49.99000168,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+27742,TRANSFER,4,449.9599915,Shipping canceled,0,Cardio Equipment,9495,Consumer,32,50,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+24453,TRANSFER,4,424.9599915,Shipping canceled,0,Cardio Equipment,4841,Consumer,19,74.98999786,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+31145,TRANSFER,4,374.9599915,Shipping canceled,0,Cardio Equipment,9803,Consumer,34,60,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+30802,TRANSFER,4,153.9600067,Advance shipping,0,Baseball & Softball,8422,Consumer,65,20.98999977,PENDING,adidas Kids' F5 Messi FG Soccer Cleat,34.99000168,Standard Class
+25875,TRANSFER,4,159.9499969,Late delivery,1,Electronics,7391,Consumer,64,0,PENDING,Under Armour Women's Ignite PIP VI Slide,31.98999977,Standard Class
+30589,TRANSFER,4,150,Late delivery,1,Cardio Equipment,11426,Consumer,37,0,PENDING,Nike Women's Tempo Shorts,30,Standard Class
+20931,TRANSFER,4,474.9500122,Advance shipping,0,Cardio Equipment,11664,Consumer,38,25,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+45646,TRANSFER,4,472.4500122,Advance shipping,0,Cardio Equipment,5339,Consumer,29,27.5,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+29731,TRANSFER,4,464.9500122,Advance shipping,0,Cardio Equipment,3204,Consumer,18,35,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+42777,TRANSFER,4,464.9500122,Advance shipping,0,Cardio Equipment,4438,Consumer,69,35,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+23886,TRANSFER,4,414.9599915,Advance shipping,0,Cardio Equipment,5243,Consumer,35,84.98999786,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+43561,TRANSFER,4,131.1600037,Advance shipping,0,Electronics,5089,Consumer,34,28.79000092,PENDING,Under Armour Women's Ignite Slide,31.98999977,Standard Class
+47846,TRANSFER,4,399.9599915,Advance shipping,0,Cardio Equipment,6073,Consumer,41,99.98999786,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+21192,TRANSFER,4,283.4500122,Advance shipping,0,Cleats,8992,Consumer,68,16.5,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+23156,TRANSFER,4,283.4500122,Advance shipping,0,Cleats,6466,Consumer,63,16.5,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+22811,TRANSFER,4,254.9600067,Advance shipping,0,Cleats,1962,Consumer,51,44.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+25418,TRANSFER,4,254.9600067,Shipping on time,0,Cleats,11438,Consumer,74,44.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+47092,TRANSFER,4,254.9600067,Advance shipping,0,Cleats,9524,Consumer,34,44.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+42658,TRANSFER,4,254.9600067,Shipping on time,0,Cleats,2078,Consumer,42,44.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+23494,TRANSFER,4,251.9600067,Late delivery,1,Cleats,2464,Consumer,32,47.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+27316,TRANSFER,4,248.9600067,Advance shipping,0,Cleats,11426,Consumer,46,50.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+20931,TRANSFER,4,248.9600067,Advance shipping,0,Cleats,11664,Consumer,48,50.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+27555,TRANSFER,4,245.9600067,Late delivery,1,Cleats,3770,Consumer,42,53.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+28657,TRANSFER,4,197.9499969,Advance shipping,0,Shop By Sport,1306,Consumer,67,2,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+47011,TRANSFER,4,247.5,Advance shipping,0,Women's Apparel,10811,Consumer,58,2.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+47846,TRANSFER,4,245,Advance shipping,0,Women's Apparel,6073,Consumer,32,5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+21973,TRANSFER,4,191.9499969,Shipping on time,0,Shop By Sport,12033,Consumer,58,8,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+50226,TRANSFER,4,237.5,Advance shipping,0,Women's Apparel,9248,Consumer,65,12.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+44617,TRANSFER,4,237.5,Advance shipping,0,Women's Apparel,2214,Consumer,37,12.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+21196,TRANSFER,4,236.25,Advance shipping,0,Women's Apparel,6738,Consumer,42,13.75,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+21193,TRANSFER,4,232.5,Shipping on time,0,Women's Apparel,5074,Consumer,74,17.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+26073,TRANSFER,4,232.5,Shipping on time,0,Women's Apparel,9148,Consumer,16,17.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+44425,TRANSFER,4,331.9700012,Late delivery,1,Cardio Equipment,3497,Consumer,62,67.98999786,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+49570,TRANSFER,4,331.9700012,Late delivery,1,Cardio Equipment,10066,Consumer,42,67.98999786,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+42099,TRANSFER,4,218.3600006,Late delivery,1,Cleats,4248,Consumer,56,21.60000038,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+47731,TRANSFER,4,218.3600006,Advance shipping,0,Cleats,6473,Consumer,23,21.60000038,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+46062,TRANSFER,4,211.1600037,Advance shipping,0,Cleats,12288,Consumer,75,28.79999924,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+44938,TRANSFER,4,211.1600037,Shipping on time,0,Cleats,7764,Consumer,49,28.79999924,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+50688,TRANSFER,4,203.9700012,Shipping on time,0,Cleats,11720,Consumer,55,35.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+49445,TRANSFER,4,201.5700073,Late delivery,1,Cleats,3935,Consumer,64,38.38999939,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+47938,TRANSFER,4,158.3600006,Shipping on time,0,Shop By Sport,8792,Consumer,16,1.600000024,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+45249,TRANSFER,4,158.3600006,Late delivery,1,Shop By Sport,10416,Consumer,17,1.600000024,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+41874,TRANSFER,4,194,Late delivery,1,Women's Apparel,424,Consumer,14,6,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+41572,TRANSFER,4,186,Advance shipping,0,Women's Apparel,10031,Consumer,67,14,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+46062,TRANSFER,4,180,Advance shipping,0,Women's Apparel,12288,Consumer,33,20,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+41785,TRANSFER,4,139.1699982,Late delivery,1,Shop By Sport,10819,Consumer,30,20.79000092,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+42971,TRANSFER,4,139.1699982,Advance shipping,0,Shop By Sport,5418,Consumer,72,20.79000092,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+44677,TRANSFER,4,166,Advance shipping,0,Women's Apparel,7272,Consumer,44,34,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+43266,TRANSFER,4,166,Advance shipping,0,Women's Apparel,5329,Consumer,23,34,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+50688,TRANSFER,4,132.7700043,Shipping on time,0,Shop By Sport,11720,Consumer,42,27.19000053,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+47917,TRANSFER,4,164,Advance shipping,0,Women's Apparel,7810,Consumer,26,36,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+48901,TRANSFER,4,67.16999817,Advance shipping,0,Golf Balls,3624,Consumer,21,12.78999996,PENDING,Glove It Women's Mod Oval Golf Glove,19.98999977,Standard Class
+44265,TRANSFER,4,170.9600067,Shipping canceled,0,Tennis & Racquet,7331,Consumer,44,9,CANCELED,Nike Men's Comfort 2 Slide,44.99000168,Standard Class
+41590,TRANSFER,4,387.9599915,Shipping canceled,0,Cardio Equipment,125,Consumer,64,12,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+45987,TRANSFER,4,191.9700012,Shipping canceled,0,Cleats,9419,Consumer,46,47.99000168,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+44452,TRANSFER,4,176,Shipping canceled,0,Women's Apparel,1250,Consumer,59,24,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+49218,TRANSFER,4,139.1699982,Shipping canceled,0,Shop By Sport,7683,Consumer,67,20.79000092,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+47840,TRANSFER,4,235.1999969,Shipping canceled,0,Girls' Apparel,2728,Consumer,32,44.79999924,CANCELED,adidas Youth Germany Black/Red Away Match Soc,70,Standard Class
+47493,TRANSFER,4,131.1699982,Shipping canceled,0,Shop By Sport,4612,Consumer,31,28.79000092,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+45987,TRANSFER,4,160,Shipping canceled,0,Women's Apparel,9419,Consumer,72,40,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+41590,TRANSFER,4,205.8800049,Shipping canceled,0,Electronics,125,Consumer,31,2.079999924,CANCELED,Titleist Pro V1 High Numbers Personalized Gol,51.99000168,Standard Class
+64274,TRANSFER,4,319.9700012,Shipping canceled,0,Cardio Equipment,12019,Consumer,63,79.98999786,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+13298,TRANSFER,4,235.1600037,Shipping canceled,0,Cleats,10549,Consumer,26,4.800000191,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+62786,TRANSFER,4,230.3600006,Shipping canceled,0,Cleats,4909,Consumer,35,9.600000381,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+13939,TRANSFER,4,211.1600037,Shipping canceled,0,Cleats,5854,Consumer,38,28.79999924,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+46864,TRANSFER,4,208.7700043,Shipping canceled,0,Cleats,3066,Consumer,34,31.19000053,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+16590,TRANSFER,4,196.7700043,Shipping canceled,0,Cleats,11431,Consumer,70,43.18999863,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+62840,TRANSFER,4,179.9700012,Shipping canceled,0,Cleats,9906,Consumer,55,59.99000168,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+66959,TRANSFER,4,198,Shipping canceled,0,Women's Apparel,2048,Consumer,56,2,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+63220,TRANSFER,4,151.9600067,Shipping canceled,0,Shop By Sport,3071,Consumer,38,8,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+19642,TRANSFER,4,189,Shipping canceled,0,Women's Apparel,11065,Consumer,47,11,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+65439,TRANSFER,4,186,Shipping canceled,0,Women's Apparel,394,Consumer,69,14,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+62840,TRANSFER,4,180,Shipping canceled,0,Women's Apparel,9906,Consumer,42,20,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+17363,TRANSFER,4,180,Shipping canceled,0,Women's Apparel,5707,Consumer,55,20,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+13298,TRANSFER,4,143.9600067,Shipping canceled,0,Shop By Sport,10549,Consumer,52,16,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+18237,TRANSFER,4,166,Shipping canceled,0,Women's Apparel,2682,Consumer,56,34,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+66958,TRANSFER,4,131.1699982,Shipping canceled,0,Shop By Sport,467,Consumer,39,28.79000092,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+66764,TRANSFER,4,164,Shipping canceled,0,Women's Apparel,10577,Consumer,35,36,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+66764,TRANSFER,4,160,Shipping canceled,0,Women's Apparel,10577,Consumer,64,40,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+48193,TRANSFER,4,89.95999908,Shipping canceled,0,Accessories,3471,Consumer,31,10,CANCELED,Team Golf Texas Longhorns Putter Grip,24.98999977,Standard Class
+15231,TRANSFER,4,90.95999908,Advance shipping,0,Lacrosse,3535,Consumer,57,9,PENDING,Under Armour Men's Tech II T-Shirt,24.98999977,Standard Class
+10451,TRANSFER,4,199.1699982,Advance shipping,0,Baseball & Softball,11715,Consumer,37,40.79000092,PENDING,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99000168,Standard Class
+10459,TRANSFER,4,399.9599915,Late delivery,1,Cardio Equipment,9814,Consumer,20,0,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+64222,TRANSFER,4,387.9599915,Advance shipping,0,Cardio Equipment,4848,Consumer,68,12,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+63907,TRANSFER,4,383.9599915,Advance shipping,0,Cardio Equipment,569,Consumer,74,16,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+19178,TRANSFER,4,379.9599915,Shipping on time,0,Cardio Equipment,5749,Consumer,23,20,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+67046,TRANSFER,4,379.9599915,Advance shipping,0,Cardio Equipment,4460,Consumer,45,20,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+65312,TRANSFER,4,377.9599915,Advance shipping,0,Cardio Equipment,6506,Consumer,66,22,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+16436,TRANSFER,4,363.9599915,Advance shipping,0,Cardio Equipment,6050,Consumer,30,36,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+11822,TRANSFER,4,116.4400024,Advance shipping,0,Electronics,3246,Consumer,36,11.52000046,PENDING,Under Armour Women's Ignite PIP VI Slide,31.98999977,Standard Class
+19528,TRANSFER,4,359.9599915,Shipping on time,0,Cardio Equipment,2364,Consumer,56,40,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+49763,TRANSFER,4,158.3600006,Shipping on time,0,Electronics,12216,Consumer,64,21.60000038,PENDING,Under Armour Men's Compression EV SL Slide,44.99000168,Standard Class
+16013,TRANSFER,4,351.9599915,Shipping on time,0,Cardio Equipment,4460,Consumer,32,48,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+17347,TRANSFER,4,351.9599915,Advance shipping,0,Cardio Equipment,11388,Consumer,71,48,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+19496,TRANSFER,4,347.9700012,Advance shipping,0,Cardio Equipment,7521,Consumer,31,51.99000168,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+62789,TRANSFER,4,339.9700012,Late delivery,1,Cardio Equipment,1628,Consumer,34,59.99000168,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+11674,TRANSFER,4,335.9700012,Late delivery,1,Cardio Equipment,7222,Consumer,34,63.99000168,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+67866,TRANSFER,4,327.9700012,Advance shipping,0,Cardio Equipment,5929,Consumer,34,71.98999786,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+13599,TRANSFER,4,319.9700012,Late delivery,1,Cardio Equipment,6123,Consumer,52,79.98999786,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+10384,TRANSFER,4,239.9600067,Late delivery,1,Cleats,587,Consumer,25,0,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+63115,TRANSFER,4,239.9600067,Late delivery,1,Cleats,1240,Consumer,44,0,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+63516,TRANSFER,4,235.1600037,Advance shipping,0,Cleats,8806,Consumer,14,4.800000191,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+62086,TRANSFER,4,232.7599945,Advance shipping,0,Cleats,341,Consumer,58,7.199999809,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+62817,TRANSFER,4,232.7599945,Advance shipping,0,Cleats,3064,Consumer,16,7.199999809,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+10856,TRANSFER,4,230.3600006,Advance shipping,0,Cleats,10614,Consumer,68,9.600000381,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+14685,TRANSFER,4,230.3600006,Late delivery,1,Cleats,10563,Consumer,64,9.600000381,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+66229,TRANSFER,4,230.3600006,Late delivery,1,Cleats,11002,Consumer,17,9.600000381,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+14924,TRANSFER,4,230.3600006,Late delivery,1,Cleats,11486,Consumer,34,9.600000381,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+49839,TRANSFER,4,230.3600006,Late delivery,1,Cleats,1759,Consumer,30,9.600000381,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+12393,TRANSFER,4,226.7599945,Shipping on time,0,Cleats,10659,Consumer,45,13.19999981,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+65898,TRANSFER,4,226.7599945,Shipping on time,0,Cleats,8899,Consumer,24,13.19999981,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+64599,TRANSFER,4,223.1600037,Late delivery,1,Cleats,3315,Consumer,67,16.79999924,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+65370,TRANSFER,4,223.1600037,Late delivery,1,Cleats,10051,Consumer,59,16.79999924,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+19732,TRANSFER,4,218.3600006,Advance shipping,0,Cleats,6402,Consumer,45,21.60000038,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+67549,TRANSFER,4,218.3600006,Late delivery,1,Cleats,4021,Consumer,31,21.60000038,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+67549,TRANSFER,4,215.9600067,Late delivery,1,Cleats,4021,Consumer,40,24,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+67866,TRANSFER,4,211.1600037,Advance shipping,0,Cleats,5929,Consumer,62,28.79999924,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+67275,TRANSFER,4,211.1600037,Late delivery,1,Cleats,4195,Consumer,62,28.79999924,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+46863,TRANSFER,4,203.9700012,Shipping on time,0,Cleats,7464,Consumer,62,35.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+62306,TRANSFER,4,203.9700012,Advance shipping,0,Cleats,11592,Consumer,62,35.99000168,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+10451,TRANSFER,4,201.5700073,Advance shipping,0,Cleats,11715,Consumer,75,38.38999939,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+18213,TRANSFER,4,196.7700043,Shipping on time,0,Cleats,10831,Consumer,64,43.18999863,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+16863,TRANSFER,4,196.7700043,Shipping on time,0,Cleats,7586,Consumer,74,43.18999863,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+24764,DEBIT,4,118.2900009,Late delivery,1,Men's Footwear,8551,Corporate,46,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21522,DEBIT,4,118.2900009,Advance shipping,0,Men's Footwear,5270,Corporate,66,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+26670,DEBIT,4,118.2900009,Late delivery,1,Men's Footwear,7163,Corporate,34,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21971,DEBIT,4,118.2900009,Advance shipping,0,Men's Footwear,9163,Corporate,39,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+76849,DEBIT,4,196.3999939,Late delivery,1,Women's Clothing,20402,Corporate,69,19.42000008,COMPLETE,Summer dresses,215.8200073,Standard Class
+27357,DEBIT,4,118.2900009,Advance shipping,0,Men's Footwear,4807,Corporate,73,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+29283,DEBIT,4,118.2900009,Shipping on time,0,Men's Footwear,88,Corporate,52,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30724,DEBIT,4,118.2900009,Late delivery,1,Men's Footwear,7697,Corporate,41,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+74454,DEBIT,4,324.9599915,Late delivery,1,Children's Clothing,18007,Corporate,66,32.13999939,COMPLETE,Children's heaters,357.1000061,Standard Class
+24558,DEBIT,4,118.2900009,Shipping on time,0,Men's Footwear,8720,Corporate,64,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+24230,DEBIT,4,54.59000015,Late delivery,1,Cleats,1718,Corporate,74,5.400000095,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+26821,DEBIT,4,118.2900009,Advance shipping,0,Men's Footwear,7795,Corporate,54,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+23211,DEBIT,4,118.2900009,Advance shipping,0,Men's Footwear,12100,Corporate,64,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21868,DEBIT,4,118.2900009,Shipping on time,0,Men's Footwear,11979,Corporate,53,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+47009,DEBIT,4,118.2900009,Late delivery,1,Men's Footwear,150,Corporate,66,11.69999981,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+42271,DEBIT,4,116.9899979,Advance shipping,0,Men's Footwear,3905,Corporate,50,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+50628,DEBIT,4,116.9899979,Shipping on time,0,Men's Footwear,8552,Corporate,58,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+24764,DEBIT,4,116.9899979,Late delivery,1,Men's Footwear,8551,Corporate,40,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21907,DEBIT,4,116.9899979,Advance shipping,0,Men's Footwear,12038,Corporate,51,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+72442,DEBIT,4,189.7700043,Advance shipping,0,Men's Clothing,15995,Corporate,55,21.09000015,COMPLETE,Men's gala suit,210.8500061,Standard Class
+27357,DEBIT,4,116.9899979,Advance shipping,0,Men's Footwear,4807,Corporate,52,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21966,DEBIT,4,116.9899979,Advance shipping,0,Men's Footwear,10291,Corporate,42,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+31169,DEBIT,4,116.9899979,Late delivery,1,Men's Footwear,1293,Corporate,42,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21906,DEBIT,4,53.99000168,Advance shipping,0,Cleats,6961,Corporate,36,6,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+72460,DEBIT,4,189.7700043,Late delivery,1,Men's Clothing,16013,Corporate,75,21.09000015,COMPLETE,Men's gala suit,210.8500061,Standard Class
+26861,DEBIT,4,116.9899979,Advance shipping,0,Men's Footwear,7931,Corporate,59,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+76992,DEBIT,4,194.2400055,Advance shipping,0,Women's Clothing,20545,Corporate,30,21.57999992,COMPLETE,Summer dresses,215.8200073,Standard Class
+22792,DEBIT,4,116.9899979,Advance shipping,0,Men's Footwear,7454,Corporate,63,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+24438,DEBIT,4,116.9899979,Shipping on time,0,Men's Footwear,12038,Corporate,64,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+27957,DEBIT,4,116.9899979,Advance shipping,0,Men's Footwear,4618,Corporate,35,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+26821,DEBIT,4,116.9899979,Advance shipping,0,Men's Footwear,7795,Corporate,32,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21868,DEBIT,4,116.9899979,Shipping on time,0,Men's Footwear,11979,Corporate,32,13,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+47899,DEBIT,4,53.99000168,Late delivery,1,Cleats,1695,Corporate,66,6,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+27918,DEBIT,4,52.79000092,Shipping on time,0,Cleats,11286,Corporate,58,7.199999809,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+22900,DEBIT,4,114.3899994,Late delivery,1,Men's Footwear,4357,Corporate,49,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30997,DEBIT,4,114.3899994,Advance shipping,0,Men's Footwear,3029,Corporate,26,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+26183,DEBIT,4,114.3899994,Shipping on time,0,Men's Footwear,9769,Corporate,40,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+24314,DEBIT,4,114.3899994,Late delivery,1,Men's Footwear,3567,Corporate,70,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21267,DEBIT,4,114.3899994,Advance shipping,0,Men's Footwear,5582,Corporate,51,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+31169,DEBIT,4,114.3899994,Late delivery,1,Men's Footwear,1293,Corporate,58,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30712,DEBIT,4,114.3899994,Advance shipping,0,Men's Footwear,6855,Corporate,71,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+27207,DEBIT,4,114.3899994,Advance shipping,0,Men's Footwear,10026,Corporate,51,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+76847,DEBIT,4,189.9199982,Advance shipping,0,Women's Clothing,20400,Corporate,30,25.89999962,COMPLETE,Summer dresses,215.8200073,Standard Class
+21906,DEBIT,4,114.3899994,Advance shipping,0,Men's Footwear,6961,Corporate,74,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21407,DEBIT,4,114.3899994,Advance shipping,0,Men's Footwear,6956,Corporate,72,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+25050,DEBIT,4,114.3899994,Late delivery,1,Men's Footwear,10082,Corporate,73,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+24438,DEBIT,4,114.3899994,Shipping on time,0,Men's Footwear,12038,Corporate,32,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+23807,DEBIT,4,114.3899994,Advance shipping,0,Men's Footwear,1839,Corporate,65,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21349,DEBIT,4,114.3899994,Late delivery,1,Men's Footwear,10155,Corporate,58,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+22224,DEBIT,4,114.3899994,Late delivery,1,Men's Footwear,1098,Corporate,45,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+49806,DEBIT,4,52.79000092,Advance shipping,0,Cleats,3172,Corporate,28,7.199999809,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+47044,DEBIT,4,114.3899994,Late delivery,1,Men's Footwear,5536,Corporate,65,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+41676,DEBIT,4,114.3899994,Advance shipping,0,Men's Footwear,11372,Corporate,69,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+49598,DEBIT,4,114.3899994,Shipping on time,0,Men's Footwear,4005,Corporate,60,15.60000038,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+42130,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,11632,Corporate,55,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+26036,DEBIT,4,52.18999863,Advance shipping,0,Cleats,10891,Corporate,53,7.800000191,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+29746,DEBIT,4,113.0899963,Advance shipping,0,Men's Footwear,11924,Corporate,68,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+27457,DEBIT,4,113.0899963,Advance shipping,0,Men's Footwear,4813,Corporate,49,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21309,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,11801,Corporate,42,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+23267,DEBIT,4,113.0899963,Advance shipping,0,Men's Footwear,6156,Corporate,57,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+23706,DEBIT,4,52.18999863,Advance shipping,0,Cleats,1763,Corporate,29,7.800000191,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+27729,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,6721,Corporate,36,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30519,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,12205,Corporate,27,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+21267,DEBIT,4,113.0899963,Advance shipping,0,Men's Footwear,5582,Corporate,48,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30658,DEBIT,4,113.0899963,Shipping on time,0,Men's Footwear,10790,Corporate,45,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30323,DEBIT,4,113.0899963,Shipping on time,0,Men's Footwear,11922,Corporate,31,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30712,DEBIT,4,113.0899963,Advance shipping,0,Men's Footwear,6855,Corporate,25,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+30044,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,10438,Corporate,47,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+74194,DEBIT,4,51.40000153,Late delivery,1,Baby ,17747,Corporate,75,7.679999828,COMPLETE,Baby sweater,59.08000183,Standard Class
+72458,DEBIT,4,183.4400024,Shipping on time,0,Men's Clothing,16011,Corporate,70,27.40999985,COMPLETE,Men's gala suit,210.8500061,Standard Class
+25050,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,10082,Corporate,70,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+74451,DEBIT,4,310.6799927,Advance shipping,0,Children's Clothing,18004,Corporate,51,46.41999817,COMPLETE,Children's heaters,357.1000061,Standard Class
+22297,DEBIT,4,52.18999863,Advance shipping,0,Cleats,8,Corporate,59,7.800000191,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+24552,DEBIT,4,113.0899963,Advance shipping,0,Men's Footwear,3275,Corporate,52,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+44706,DEBIT,4,52.18999863,Advance shipping,0,Cleats,9023,Corporate,62,7.800000191,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+48950,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,8643,Corporate,74,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+47600,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,11797,Corporate,59,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+47044,DEBIT,4,113.0899963,Late delivery,1,Men's Footwear,5536,Corporate,71,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+43257,DEBIT,4,113.0899963,Advance shipping,0,Men's Footwear,4062,Corporate,50,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+49888,DEBIT,4,113.0899963,Shipping on time,0,Men's Footwear,6897,Corporate,44,16.89999962,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+42130,DEBIT,4,110.4899979,Late delivery,1,Men's Footwear,11632,Corporate,62,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+24752,DEBIT,4,110.4899979,Advance shipping,0,Men's Footwear,11892,Corporate,71,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+24548,DEBIT,4,110.4899979,Shipping on time,0,Men's Footwear,6763,Corporate,36,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+73906,DEBIT,4,183.4499969,Advance shipping,0,Women's Clothing,17459,Corporate,69,32.36999893,COMPLETE,Summer dresses,215.8200073,Standard Class
+27729,DEBIT,4,110.4899979,Late delivery,1,Men's Footwear,6721,Corporate,31,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+28355,DEBIT,4,110.4899979,Late delivery,1,Men's Footwear,8622,Corporate,30,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+23456,DEBIT,4,110.4899979,Advance shipping,0,Men's Footwear,241,Corporate,31,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+74193,DEBIT,4,50.22000122,Shipping on time,0,Baby ,17746,Corporate,27,8.859999657,COMPLETE,Baby sweater,59.08000183,Standard Class
+50466,DEBIT,4,110.4899979,Advance shipping,0,Men's Footwear,822,Corporate,59,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+50377,DEBIT,4,110.4899979,Advance shipping,0,Men's Footwear,6376,Corporate,27,19.5,COMPLETE,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,Standard Class
+61855,DEBIT,4,454.9500122,Late delivery,1,Cardio Equipment,9557,Consumer,22,45,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+67415,DEBIT,4,449.9599915,Late delivery,1,Cardio Equipment,11397,Consumer,15,50,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+66794,DEBIT,4,449.9599915,Late delivery,1,Cardio Equipment,6999,Consumer,75,50,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+17467,DEBIT,4,449.9599915,Advance shipping,0,Cardio Equipment,10534,Consumer,18,50,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+16419,DEBIT,4,449.9599915,Late delivery,1,Cardio Equipment,6815,Consumer,61,50,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+65249,DEBIT,4,439.9599915,Late delivery,1,Cardio Equipment,2269,Consumer,28,59.99000168,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+17449,DEBIT,4,434.9599915,Late delivery,1,Cardio Equipment,10708,Consumer,49,64.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+63803,DEBIT,4,434.9599915,Shipping on time,0,Cardio Equipment,9119,Consumer,50,64.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+16969,DEBIT,4,127.5,Late delivery,1,Cardio Equipment,9500,Consumer,73,22.5,COMPLETE,Nike Women's Tempo Shorts,30,Standard Class
+16369,DEBIT,4,424.9599915,Late delivery,1,Cardio Equipment,9910,Consumer,35,74.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+66702,DEBIT,4,419.9599915,Advance shipping,0,Cardio Equipment,5036,Consumer,60,79.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+10584,DEBIT,4,419.9599915,Late delivery,1,Cardio Equipment,2698,Consumer,52,79.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+17368,DEBIT,4,419.9599915,Shipping on time,0,Cardio Equipment,6220,Consumer,21,79.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+20291,DEBIT,4,134.3600006,Advance shipping,0,Electronics,1555,Consumer,17,25.59000015,COMPLETE,Under Armour Women's Ignite PIP VI Slide,31.98999977,Standard Class
+14384,DEBIT,4,414.9599915,Late delivery,1,Cardio Equipment,6947,Consumer,75,84.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+64066,DEBIT,4,409.9599915,Advance shipping,0,Cardio Equipment,442,Consumer,69,89.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+67292,DEBIT,4,409.9599915,Advance shipping,0,Cardio Equipment,9671,Consumer,73,89.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+65855,DEBIT,4,409.9599915,Late delivery,1,Cardio Equipment,5283,Consumer,51,89.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+64531,DEBIT,4,409.9599915,Advance shipping,0,Cardio Equipment,3364,Consumer,62,89.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+19168,DEBIT,4,409.9599915,Shipping on time,0,Cardio Equipment,2170,Consumer,29,89.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+16299,DEBIT,4,399.9599915,Late delivery,1,Cardio Equipment,11348,Consumer,52,99.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+17228,DEBIT,4,399.9599915,Shipping on time,0,Cardio Equipment,10224,Consumer,36,99.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+68289,DEBIT,4,399.9599915,Late delivery,1,Cardio Equipment,7006,Consumer,60,99.98999786,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+47509,DEBIT,4,374.9599915,Late delivery,1,Cardio Equipment,7363,Consumer,16,60,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+17211,DEBIT,4,374.9599915,Advance shipping,0,Cardio Equipment,1595,Consumer,26,60,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+64894,DEBIT,4,374.9599915,Late delivery,1,Cardio Equipment,7492,Consumer,61,60,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+67818,DEBIT,4,374.9599915,Shipping on time,0,Cardio Equipment,9821,Consumer,27,60,COMPLETE,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+16218,DEBIT,4,299.9500122,Shipping on time,0,Cleats,5246,Consumer,62,0,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+11391,DEBIT,4,299.9500122,Advance shipping,0,Cleats,558,Consumer,41,0,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+17386,DEBIT,4,299.9500122,Advance shipping,0,Cleats,1063,Consumer,22,0,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+11968,DEBIT,4,299.9500122,Shipping on time,0,Cleats,2610,Consumer,67,0,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+46305,DEBIT,4,296.9500122,Late delivery,1,Cleats,3964,Consumer,38,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+16218,DEBIT,4,296.9500122,Shipping on time,0,Cleats,5246,Consumer,43,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+19973,DEBIT,4,296.9500122,Shipping on time,0,Cleats,3868,Consumer,53,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+15787,DEBIT,4,296.9500122,Advance shipping,0,Cleats,3961,Consumer,31,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+11378,DEBIT,4,296.9500122,Shipping on time,0,Cleats,1261,Consumer,40,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+62260,DEBIT,4,296.9500122,Late delivery,1,Cleats,9341,Consumer,42,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+11083,DEBIT,4,296.9500122,Shipping on time,0,Cleats,2550,Consumer,39,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+65174,DEBIT,4,296.9500122,Late delivery,1,Cleats,12045,Consumer,72,3,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+44442,DEBIT,4,293.9500122,Advance shipping,0,Cleats,2719,Consumer,65,6,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+42783,DEBIT,4,293.9500122,Shipping on time,0,Cleats,7924,Consumer,15,6,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+64677,DEBIT,4,293.9500122,Advance shipping,0,Cleats,3206,Consumer,21,6,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+66219,DEBIT,4,293.9500122,Late delivery,1,Cleats,11945,Consumer,42,6,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+44816,DEBIT,4,290.9500122,Advance shipping,0,Cleats,3141,Consumer,44,9,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+47002,DEBIT,4,290.9500122,Advance shipping,0,Cleats,4596,Consumer,23,9,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+10502,DEBIT,4,290.9500122,Advance shipping,0,Cleats,3942,Consumer,54,9,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+63843,DEBIT,4,290.9500122,Shipping on time,0,Cleats,8065,Consumer,49,9,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+62237,DEBIT,4,290.9500122,Advance shipping,0,Cleats,6758,Consumer,71,9,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+13907,DEBIT,4,290.9500122,Advance shipping,0,Cleats,4842,Consumer,30,9,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+63576,DEBIT,4,287.9500122,Advance shipping,0,Cleats,581,Consumer,60,12,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+18448,DEBIT,4,287.9500122,Shipping on time,0,Cleats,4563,Consumer,50,12,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+17524,DEBIT,4,287.9500122,Late delivery,1,Cleats,9096,Consumer,40,12,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+19333,DEBIT,4,287.9500122,Shipping on time,0,Cleats,9813,Consumer,48,12,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+64150,DEBIT,4,284.9500122,Late delivery,1,Cleats,4612,Consumer,52,15,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+64920,DEBIT,4,284.9500122,Late delivery,1,Cleats,2492,Consumer,70,15,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+16378,DEBIT,4,283.4500122,Shipping on time,0,Cleats,1445,Consumer,47,16.5,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+67331,DEBIT,4,283.4500122,Advance shipping,0,Cleats,7327,Consumer,48,16.5,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+67037,DEBIT,4,283.4500122,Advance shipping,0,Cleats,8701,Consumer,59,16.5,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+63349,DEBIT,4,283.4500122,Late delivery,1,Cleats,7783,Consumer,39,16.5,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+19309,DEBIT,4,283.4500122,Late delivery,1,Cleats,5621,Consumer,33,16.5,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+49936,DEBIT,4,278.9500122,Advance shipping,0,Cleats,5767,Consumer,72,21,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+11749,DEBIT,4,278.9500122,Late delivery,1,Cleats,430,Consumer,16,21,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+49936,DEBIT,4,272.9500122,Advance shipping,0,Cleats,5767,Consumer,15,27,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+16767,DEBIT,4,272.9500122,Advance shipping,0,Cleats,10132,Consumer,38,27,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+61664,DEBIT,4,272.9500122,Late delivery,1,Cleats,7586,Consumer,36,27,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+63512,DEBIT,4,272.9500122,Advance shipping,0,Cleats,12350,Consumer,39,27,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+17726,DEBIT,4,269.9599915,Advance shipping,0,Cleats,2256,Consumer,14,30,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+12540,DEBIT,4,263.9599915,Late delivery,1,Cleats,6758,Consumer,64,35.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+14100,DEBIT,4,263.9599915,Late delivery,1,Cleats,1045,Consumer,40,35.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+16098,DEBIT,4,263.9599915,Shipping on time,0,Cleats,5939,Consumer,26,35.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+14660,DEBIT,4,263.9599915,Late delivery,1,Cleats,9371,Consumer,71,35.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+41718,DEBIT,4,263.9599915,Shipping on time,0,Cleats,7492,Consumer,39,35.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+64500,DEBIT,4,263.9599915,Late delivery,1,Cleats,11536,Consumer,69,35.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+10586,DEBIT,4,263.9599915,Advance shipping,0,Cleats,10129,Consumer,47,35.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+45291,DEBIT,4,260.9599915,Advance shipping,0,Cleats,7905,Consumer,74,38.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+15459,DEBIT,4,260.9599915,Late delivery,1,Cleats,8674,Consumer,27,38.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+16093,DEBIT,4,260.9599915,Shipping on time,0,Cleats,1902,Consumer,50,38.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+10584,DEBIT,4,260.9599915,Late delivery,1,Cleats,2698,Consumer,46,38.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+61596,DEBIT,4,260.9599915,Advance shipping,0,Cleats,1408,Consumer,58,38.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+68374,DEBIT,4,260.9599915,Late delivery,1,Cleats,10549,Consumer,42,38.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+50588,DEBIT,4,254.9600067,Shipping on time,0,Cleats,9172,Consumer,55,44.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+42087,DEBIT,4,254.9600067,Advance shipping,0,Cleats,3659,Consumer,37,44.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+13528,DEBIT,4,254.9600067,Shipping on time,0,Cleats,10827,Consumer,28,44.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+18135,DEBIT,4,254.9600067,Late delivery,1,Cleats,9146,Consumer,48,44.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+15199,DEBIT,4,254.9600067,Late delivery,1,Cleats,20,Consumer,20,44.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+68369,DEBIT,4,254.9600067,Late delivery,1,Cleats,8391,Consumer,22,44.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+46859,DEBIT,4,251.9600067,Late delivery,1,Cleats,7492,Consumer,53,47.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+63992,DEBIT,4,251.9600067,Advance shipping,0,Cleats,11510,Consumer,18,47.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+16969,DEBIT,4,251.9600067,Late delivery,1,Cleats,9500,Consumer,67,47.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+18120,DEBIT,4,248.9600067,Late delivery,1,Cleats,10821,Consumer,48,50.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+14544,DEBIT,4,248.9600067,Late delivery,1,Cleats,4727,Consumer,48,50.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+13991,DEBIT,4,248.9600067,Advance shipping,0,Cleats,10647,Consumer,29,50.99000168,COMPLETE,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+906,TRANSFER,4,41.47999954,Advance shipping,0,Accessories,7141,Corporate,62,8.5,PENDING,Team Golf San Francisco Giants Putter Grip,24.98999977,Standard Class
+5479,TRANSFER,4,26.21999931,Late delivery,1,Trade-In,6172,Corporate,53,5.760000229,PENDING,Glove It Imperial Golf Towel,15.98999977,Standard Class
+51396,TRANSFER,4,51.18000031,Advance shipping,0,Electronics,2741,Corporate,25,12.80000019,PENDING,Bridgestone e6 Straight Distance NFL San Dieg,31.98999977,Standard Class
+10116,TRANSFER,4,189.9799957,Shipping canceled,0,Cardio Equipment,1180,Corporate,55,10,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+1756,TRANSFER,4,185.9799957,Shipping canceled,0,Cardio Equipment,6875,Corporate,70,14,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+10014,TRANSFER,4,173.9799957,Shipping canceled,0,Cardio Equipment,10864,Corporate,63,26,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+1991,TRANSFER,4,167.9799957,Shipping canceled,0,Cardio Equipment,242,Corporate,43,32,CANCELED,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+52533,TRANSFER,4,105.5800018,Shipping canceled,0,Cleats,9002,Corporate,71,14.39999962,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+52533,TRANSFER,4,104.3799973,Shipping canceled,0,Cleats,9002,Corporate,51,15.60000038,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+2332,TRANSFER,4,104.3799973,Shipping canceled,0,Cleats,9145,Corporate,40,15.60000038,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+10276,TRANSFER,4,99,Shipping canceled,0,Women's Apparel,7887,Corporate,27,1,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+2911,TRANSFER,4,98,Shipping canceled,0,Women's Apparel,2817,Corporate,38,2,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+53568,TRANSFER,4,75.98000336,Shipping canceled,0,Shop By Sport,2013,Corporate,34,4,CANCELED,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+53568,TRANSFER,4,80,Shipping canceled,0,Women's Apparel,2013,Corporate,49,20,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+25688,TRANSFER,4,119.9800034,Shipping canceled,0,Cleats,5920,Corporate,60,0,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+48954,TRANSFER,4,111.5800018,Shipping canceled,0,Cleats,5674,Corporate,41,8.399999619,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+25688,TRANSFER,4,89.98999786,Shipping canceled,0,Cleats,5920,Corporate,68,30,CANCELED,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+47743,TRANSFER,4,90,Shipping canceled,0,Women's Apparel,11012,Corporate,28,10,CANCELED,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+45339,TRANSFER,4,47.22999954,Shipping canceled,0,Accessories,6508,Corporate,39,2.75,CANCELED,Team Golf Tennessee Volunteers Putter Grip,24.98999977,Standard Class
+43521,TRANSFER,4,199.9799957,Advance shipping,0,Cardio Equipment,8995,Corporate,52,0,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+22468,TRANSFER,4,108.8399963,Shipping on time,0,Boxing & MMA,9507,Corporate,64,1.100000024,PENDING,Under Armour Women's Micro G Skulpt Running S,54.97000122,Standard Class
+29880,TRANSFER,4,197.9799957,Late delivery,1,Cardio Equipment,11056,Corporate,74,2,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+21197,TRANSFER,4,195.9799957,Advance shipping,0,Cardio Equipment,10558,Corporate,41,4,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+22261,TRANSFER,4,195.9799957,Advance shipping,0,Cardio Equipment,6707,Corporate,73,4,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+24853,TRANSFER,4,181.9799957,Shipping on time,0,Cardio Equipment,4029,Corporate,38,18,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+23585,TRANSFER,4,173.9799957,Late delivery,1,Cardio Equipment,2189,Corporate,54,26,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+30963,TRANSFER,4,163.9799957,Shipping on time,0,Cardio Equipment,1865,Corporate,71,36,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+24118,TRANSFER,4,82.45999908,Shipping on time,0,Boxing & MMA,9345,Corporate,70,27.48999977,PENDING,Under Armour Women's Micro G Skulpt Running S,54.97000122,Standard Class
+42287,TRANSFER,4,47.99000168,Advance shipping,0,Electronics,9356,Corporate,49,16,PENDING,Under Armour Women's Ignite PIP VI Slide,31.98999977,Standard Class
+21197,TRANSFER,4,115.1800003,Advance shipping,0,Cleats,10558,Corporate,25,4.800000191,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+21697,TRANSFER,4,113.9800034,Advance shipping,0,Cleats,5821,Corporate,46,6,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+21691,TRANSFER,4,113.3799973,Advance shipping,0,Cleats,532,Corporate,38,6.599999905,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+23878,TRANSFER,4,99.58000183,Shipping on time,0,Cleats,8977,Corporate,56,20.39999962,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+30214,TRANSFER,4,98.37999725,Late delivery,1,Cleats,4117,Corporate,48,21.60000038,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+29871,TRANSFER,4,98.37999725,Advance shipping,0,Cleats,3985,Corporate,31,21.60000038,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+22261,TRANSFER,4,89.98999786,Advance shipping,0,Cleats,6707,Corporate,52,30,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+20594,TRANSFER,4,98,Late delivery,1,Women's Apparel,3586,Corporate,55,2,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+29107,TRANSFER,4,98,Advance shipping,0,Women's Apparel,9001,Corporate,29,2,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+21698,TRANSFER,4,96,Shipping on time,0,Women's Apparel,10678,Corporate,41,4,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+20918,TRANSFER,4,96,Shipping on time,0,Women's Apparel,1664,Corporate,32,4,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+29959,TRANSFER,4,74.37999725,Late delivery,1,Shop By Sport,11882,Corporate,70,5.599999905,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+45126,TRANSFER,4,74.37999725,Advance shipping,0,Girls' Apparel,4808,Corporate,31,5.599999905,PENDING,TYR Boys' Team Digi Jammer,39.99000168,Standard Class
+26871,TRANSFER,4,88,Advance shipping,0,Women's Apparel,10201,Corporate,35,12,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+23751,TRANSFER,4,69.58000183,Advance shipping,0,Shop By Sport,2292,Corporate,41,10.39999962,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+22612,TRANSFER,4,67.98000336,Advance shipping,0,Shop By Sport,11675,Corporate,44,12,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+29862,TRANSFER,4,84,Advance shipping,0,Women's Apparel,1144,Corporate,60,16,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+20755,TRANSFER,4,83,Late delivery,1,Women's Apparel,640,Corporate,29,17,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+30267,TRANSFER,4,83,Advance shipping,0,Women's Apparel,8612,Corporate,62,17,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+31211,TRANSFER,4,65.58000183,Advance shipping,0,Shop By Sport,4402,Corporate,51,14.39999962,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+27007,TRANSFER,4,63.97999954,Advance shipping,0,Electronics,3815,Corporate,44,0,PENDING,Bridgestone e6 Straight Distance NFL Tennesse,31.98999977,Standard Class
+46073,TRANSFER,4,95.98000336,Shipping on time,0,Electronics,10834,Corporate,29,0,PENDING,Titleist Pro V1x High Numbers Golf Balls,47.99000168,Standard Class
+27007,TRANSFER,4,39.18000031,Advance shipping,0,Golf Balls,3815,Corporate,64,0.800000012,PENDING,Glove It Women's Mod Oval Golf Glove,19.98999977,Standard Class
+20755,TRANSFER,4,36.38000107,Late delivery,1,Golf Balls,640,Corporate,61,3.599999905,PENDING,Glove It Women's Imperial Golf Glove,19.98999977,Standard Class
+24118,TRANSFER,4,33.58000183,Shipping on time,0,Golf Balls,9345,Corporate,57,6.400000095,PENDING,Glove It Women's Mod Oval Golf Glove,19.98999977,Standard Class
+21691,TRANSFER,4,76.77999878,Advance shipping,0,Electronics,532,Corporate,61,19.20000076,PENDING,Titleist Pro V1x Golf Balls,47.99000168,Standard Class
+26510,TRANSFER,4,119.9800034,Late delivery,1,Baseball & Softball,3554,Corporate,68,0,PENDING,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99000168,Standard Class
+43468,TRANSFER,4,195.9799957,Shipping on time,0,Cardio Equipment,10219,Corporate,46,4,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+43468,TRANSFER,4,193.9799957,Shipping on time,0,Cardio Equipment,10219,Corporate,48,6,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+31000,TRANSFER,4,52.90000153,Late delivery,1,Electronics,11730,Corporate,33,3.079999924,PENDING,Under Armour Kids' Mercenary Slide,27.98999977,Standard Class
+22988,TRANSFER,4,173.9799957,Shipping on time,0,Cardio Equipment,4756,Corporate,63,26,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+29993,TRANSFER,4,169.9799957,Shipping on time,0,Cardio Equipment,7229,Corporate,35,30,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+28568,TRANSFER,4,165.9799957,Shipping on time,0,Cardio Equipment,7963,Corporate,65,34,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+31000,TRANSFER,4,165.9799957,Late delivery,1,Cardio Equipment,11730,Corporate,26,34,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+20773,TRANSFER,4,165.9799957,Shipping on time,0,Cardio Equipment,4464,Corporate,35,34,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+43640,TRANSFER,4,159.9799957,Late delivery,1,Cardio Equipment,5429,Corporate,72,40,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+23967,TRANSFER,4,149.9900055,Advance shipping,0,Cardio Equipment,1383,Corporate,41,50,PENDING,Nike Men's Free 5.0+ Running Shoe,99.98999786,Standard Class
+21016,TRANSFER,4,119.9800034,Advance shipping,0,Cleats,3153,Corporate,68,0,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+27005,TRANSFER,4,118.7799988,Late delivery,1,Cleats,11357,Corporate,57,1.200000048,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+25606,TRANSFER,4,116.3799973,Advance shipping,0,Cleats,4700,Corporate,44,3.599999905,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+30335,TRANSFER,4,113.9800034,Late delivery,1,Cleats,1975,Corporate,59,6,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+29270,TRANSFER,4,113.3799973,Late delivery,1,Cleats,6187,Corporate,36,6.599999905,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+31269,TRANSFER,4,109.1800003,Late delivery,1,Cleats,12205,Corporate,28,10.80000019,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+24820,TRANSFER,4,100.7799988,Late delivery,1,Cleats,4862,Corporate,59,19.20000076,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+25847,TRANSFER,4,100.7799988,Advance shipping,0,Cleats,6180,Corporate,38,19.20000076,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+42154,TRANSFER,4,99.58000183,Late delivery,1,Cleats,11977,Corporate,42,20.39999962,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+45036,TRANSFER,4,89.98999786,Advance shipping,0,Cleats,10126,Corporate,29,30,PENDING,Perfect Fitness Perfect Rip Deck,59.99000168,Standard Class
+45863,TRANSFER,4,79.18000031,Shipping on time,0,Shop By Sport,1880,Corporate,64,0.800000012,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+20929,TRANSFER,4,98,Late delivery,1,Women's Apparel,8747,Corporate,53,2,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+23464,TRANSFER,4,98,Late delivery,1,Women's Apparel,11252,Corporate,34,2,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+44316,TRANSFER,4,98,Advance shipping,0,Women's Apparel,5598,Corporate,51,2,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+27647,TRANSFER,4,77.58000183,Advance shipping,0,Shop By Sport,1067,Corporate,45,2.400000095,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+24878,TRANSFER,4,77.58000183,Shipping on time,0,Shop By Sport,8681,Corporate,31,2.400000095,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+42152,TRANSFER,4,77.58000183,Advance shipping,0,Shop By Sport,10884,Corporate,42,2.400000095,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+46401,TRANSFER,4,97,Advance shipping,0,Women's Apparel,8850,Corporate,65,3,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+20929,TRANSFER,4,57,Late delivery,1,Girls' Apparel,8747,Corporate,72,3,PENDING,Nike Men's Deutschland Weltmeister Winners Bl,30,Standard Class
+48844,TRANSFER,4,94.5,Late delivery,1,Women's Apparel,5316,Corporate,59,5.5,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+22481,TRANSFER,4,91,Advance shipping,0,Women's Apparel,5821,Corporate,59,9,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+30713,TRANSFER,4,72.77999878,Shipping on time,0,Shop By Sport,1801,Corporate,45,7.199999809,PENDING,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,Standard Class
+31018,TRANSFER,4,87,Shipping on time,0,Women's Apparel,4627,Corporate,33,13,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+27005,TRANSFER,4,87,Late delivery,1,Women's Apparel,11357,Corporate,62,13,PENDING,Nike Men's Dri-FIT Victory Golf Polo,50,Standard Class
+75796,CASH,2,314.6400146,Shipping on time,0,Sporting Goods,19349,Home Office,70,13.10999966,COMPLETE,Smart watch,327.75,Second Class
+75795,DEBIT,4,311.3599854,Late delivery,1,Sporting Goods,19348,Corporate,27,16.38999939,COMPLETE,Smart watch,327.75,Standard Class
+75794,CASH,4,309.7200012,Late delivery,1,Sporting Goods,19347,Corporate,52,18.0700069,COMPLETE,Smart watch,327.75,Standard Class
+75793,PAYMENT,4,304.8099976,Shipping on time,0,Sporting Goods,19346,Corporate,70,22.94000053,PENDING,Smart watch,327.75,Standard Class
+75792,PAYMENT,4,298.25,Advance shipping,0,Sporting Goods,19345,Consumer,43,29.5,PENDING,Smart watch,327.75,Standard Class
+75791,TRANSFER,2,294.980011,Shipping on time,0,Sporting Goods,19344,Consumer,33,32.77999878,PENDING,Smart watch,327.75,Second Class
